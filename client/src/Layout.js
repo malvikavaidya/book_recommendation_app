@@ -7,11 +7,12 @@ import {
   IconButton,
   Text,
   Box,
-  Input
+  Input, Grid, GridItem
 } from '@chakra-ui/react'
 import { HamburgerIcon, CloseIcon } from '@chakra-ui/icons'
 import { Link } from '@chakra-ui/react'
 import logo from './images/logo.png'
+import BookCard from './components/BookCard'
 
 
 function Layout() {
@@ -30,33 +31,29 @@ function Layout() {
     
   </Flex >
 
-   <Flex justifyContent= 'left' marginTop='210px' marginLeft = '20px'>
+   <Flex justifyContent= 'left' marginTop='180px' marginLeft = '20px'>
     <Input variant='filled' value=""  placeholder='text input box' width='30%' length= '50%'/>
     </Flex>
 
-    <Flex justifyContent= 'left' marginTop='30px' marginLeft = '20px'>
+    <Flex justifyContent= 'left' marginTop='20px' marginLeft = '20px'>
     <Input value="" variant='filled' placeholder='title input box' width='30%' length= '50%'/>
     </Flex>
   
-      {/* <Button variant="ghost" aria-label="home" my={5} onClick={(e) => {
-      e.preventDefault();
-      window.location.href='/';
-      }}>
-        home
-      </Button>
-      <Button variant="ghost" aria-label="about" my={5} onClick={(e) => {
-      e.preventDefault();
-      window.location.href='/about';
-      }}>
-        about
-      </Button>
-      <Button variant="ghost" aria-label="books" my={5} onClick={(e) => {
-      e.preventDefault();
-      window.location.href='/books';
-      }}>
-        books
-      </Button> */}
- 
+    {/* <Grid templateColumns='repeat(3,1fr)' gap={4} marginTop='95px'> */}
+        {/* <GridItem> */}
+        {/* <BookCard key= "hey"
+        title="hi"
+        author="author ex"
+        summary="gggg"
+        rating="4"
+        review="r"
+        photolink="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fauthorljshen%2F&psig=AOvVaw3RcsDVfE0WCpmFt5l3GYQk&ust=1669960957793000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCMC_977f1_sCFQAAAAAdAAAAABAE"
+        amazonlink="http.s"
+        genre="fantasy" 
+        /> */}
+        {/* </GridItem> */}
+    {/* </Grid> */}
+    
   </div>
   )
 }
