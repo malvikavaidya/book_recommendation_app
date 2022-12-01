@@ -18,12 +18,15 @@ function Layout() {
   return ( 
     <div>
    
- <Flex position="fixed" w='100%' top="1rem" right="1rem" justifyContent='right' bg='white' opacity= '0.68'>
+ <Flex position="fixed" w='100%' top="1rem" right="1rem" justifyContent='right' bg='white' opacity= '0.68' padding-right = '10px'>
     <Box flexGrow={1} justifyContent="left" pl={20}  margin-left= '30px'>
         <Text aria-label="malvika's book reviews" my={5}  fontSize='3xl' >
             book recommendation system
         </Text>
-    </Box>  
+    </Box>
+    <Box  justifyContent="right" pr = {3} pt={3} >
+        <img src={logo}  width = '60px' height= 'auto'/> 
+    </Box>
     
   </Flex >
 
