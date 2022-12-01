@@ -8,8 +8,7 @@ import {BrowserRouter, Routes, Route, Navigate} from 'react-router-dom';
 
 function App() {
 
-  const  [inputText, setInputText] = useState("");
-  const [title, setTitle] = useState("");
+  
  
 
   // useEffect(() => {

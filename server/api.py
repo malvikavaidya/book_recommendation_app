@@ -7,11 +7,11 @@ from flask import Flask
 
 app = Flask(__name__, static_folder="../build",static_url_path="/")
 
-@app.route('/stuff')
+@app.route('/stuff', methods=['GET', 'POST'])
 def index():
-    return {'data' : "Hello from Flask!" }
+    return "app.send_static_file('index.html')"
 
-@app.route('/wtf')
+@app.route('/api/message')
 def get_current_time():
     return {'data' : "Hello from Flask!" }
 

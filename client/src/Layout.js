@@ -7,15 +7,56 @@ import {
   IconButton,
   Text,
   Box,
-  Input, Grid, GridItem
+  Input, Grid, GridItem, Stack
 } from '@chakra-ui/react'
 import { HamburgerIcon, CloseIcon } from '@chakra-ui/icons'
 import { Link } from '@chakra-ui/react'
 import logo from './images/logo.png'
+import axios from 'axios';
 import BookCard from './components/BookCard'
 
 
 function Layout() {
+    const  [inputText, setInputText] = useState("");
+    const [title, setTitle] = useState("");
+
+    const buttonClickTitle= () => {
+        
+        const headers = {
+            'Content-Type': "application/json;charset=UTF-8",
+        }
+        axios.post("/stuff", {
+            
+        },{
+            headers: headers
+        })  
+        .then((response) =>{
+            console.log(response);
+            setInputText("title button click works");
+        })
+        .catch((error)=>{
+            console.log(error.response.data);
+        })
+    };
+
+    const buttonClickInput= () => {
+        
+        const headers = {
+            'Content-Type': "application/json;charset=UTF-8",
+        }
+        axios.post("/stuff", {
+            
+        },{
+            headers: headers
+        })  
+        .then((response) =>{
+            console.log(response);
+            setInputText("");
+        })
+        .catch((error)=>{
+            console.log(error.response.data);
+        })
+    };
   return ( 
     <div>
    
@@ -32,27 +73,45 @@ function Layout() {
   </Flex >
 
    <Flex justifyContent= 'left' marginTop='180px' marginLeft = '20px'>
-    <Input variant='filled' value=""  placeholder='text input box' width='30%' length= '50%'/>
+        <Input variant='filled' value={inputText} placeholder='text input box' width='30%' length= '50%'
+        onChangeCapture={(e)=>setInputText(e.target.value)} />
+            <Button onClick={buttonClickInput} variant='outline' padding-left = '500px'>
+                enter
+            </Button> 
+            
     </Flex>
+   
 
     <Flex justifyContent= 'left' marginTop='20px' marginLeft = '20px'>
-    <Input value="" variant='filled' placeholder='title input box' width='30%' length= '50%'/>
+    <Input value={title} variant='filled' placeholder='title input box' width='30%' length= '50%'
+    onChangeCapture={(e)=>setTitle(e.target.value)}/>
+        <Button onClick={buttonClickTitle} variant='outline' padding-left = '500px'>
+                enter
+            </Button> 
     </Flex>
-  
-    {/* <Grid templateColumns='repeat(3,1fr)' gap={4} marginTop='95px'> */}
-        {/* <GridItem> */}
-        {/* <BookCard key= "hey"
-        title="hi"
-        author="author ex"
-        summary="gggg"
-        rating="4"
-        review="r"
-        photolink="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fauthorljshen%2F&psig=AOvVaw3RcsDVfE0WCpmFt5l3GYQk&ust=1669960957793000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCMC_977f1_sCFQAAAAAdAAAAABAE"
-        amazonlink="http.s"
-        genre="fantasy" 
+
+     {/* <BookCard  
         /> */}
-        {/* </GridItem> */}
-    {/* </Grid> */}
+  <Stack justify='right' direction="row">
+    <Grid templateColumns='repeat(3,1fr)' gap={100} marginTop='90px' justify="end" pr = "100px"> 
+        
+        <GridItem justifyContent='right'> 
+        { <BookCard  
+        />}
+         </GridItem>
+
+         <GridItem> 
+        { <BookCard  
+        />}
+         </GridItem>
+
+         <GridItem> 
+        { <BookCard  
+        />}
+         </GridItem>
+        
+     </Grid>
+     </Stack>
     
   </div>
   )
