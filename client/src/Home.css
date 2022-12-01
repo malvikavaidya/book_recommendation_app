@@ -1,0 +1,5 @@
+body {
+    height: 100vh;
+    /* background-color: rgb(121, 121, 202) !important; */
+     background-image: linear-gradient(to right top, rgba(195, 172, 140, 0.436), rgb(151, 122, 73)) !important;
+}
