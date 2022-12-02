@@ -40,23 +40,23 @@ const BookCard = (props) => {
           p={6}
           overflow={'hidden'}>
           <Box
-            h={'250px'}
+            h={'253px'}
             bg={'gray.100'}
             mt={-6}
             mx={-6}
             mb={6}
             pos={'relative'}>
             <Image
-            /*  src={props.photolink}*/
+              src={props.photolink}
               layout={'fill'}
-              h={'380px'}
+              h={'253px'}
               w={'280px'}
               pos={'relative'}
              
             />
           </Box>
-          <Stack>
-            <Text
+          <Stack >
+            <Text 
               color={'gray.400'}
               textTransform={'uppercase'}
               fontWeight={800}
@@ -68,42 +68,32 @@ const BookCard = (props) => {
               color={useColorModeValue('gray.700', 'white')}
               fontSize={'2xl'}
               fontFamily={'body'}>
-
-              {/* {props.title} */}
+               {props.bookTitle} 
             </Heading>
-            <Text color={'gray.500'} fontSize={'s'}>
-              {/* Book Rating: {props.rating} */}
-            </Text>
-            <Text color={'gray.500'}  fontSize={'xs'}>
-              {/* Short Summary: {props.summary} */}
-            </Text>
-          </Stack>
-          <Stack  justifyContent = 'center' mt={2} direction={'row'} spacing={4} align={'right'}>  
+           
+            </Stack>
+            <Stack  justifyContent = 'center' mt={1} direction={'row'} spacing={4} align={'right'}>  
             <Accordion  allowMultiple>
                 <AccordionItem>
                   <AccordionButton>
                    <Box flex='1' textAlign='left'>
-                        Book Review
+                        book summary
                   </Box>
                   <AccordionIcon />
                   </AccordionButton>
                   <AccordionPanel pb={4} fontSize={'xs'}>
-                      {/* {props.review} */}
+                      {props.summary}
                 </AccordionPanel>
               </AccordionItem>
               </Accordion>
           </Stack>
+         
+        
+          </Box>
+          </Center>
 
-          <Grid justifyContent = 'center' mt={2}>
-            <Link /*href={props.amazonlink}*/ isExternal justifyContent = 'center'>
-                  Amazon Link 
-                <ExternalLinkIcon mx='2px' justifyContent = 'center'/>
-            </Link>
-          </Grid>
-
-
-        </Box>
-      </Center>
+       
+      
     )
   }
   

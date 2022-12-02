@@ -1,0 +1,5906 @@
+0 John Green
+1 Veronica Roth
+2 Suzanne Collins
+3 Gillian Flynn
+4 Andy Weir
+5 Anthony Doerr
+6 Ernest Cline
+7 Cassandra Clare
+8 Marissa Meyer
+9 Jojo Moyes
+10 Erin Morgenstern
+11 Rick Riordan
+12 George R.R. Martin
+13 Sarah J. Maas
+14 Kiera Cass
+15 Rainbow Rowell
+16 Emma Donoghue
+17 Ransom Riggs
+18 Paula Hawkins
+19 Veronica Roth
+20 R.J. Palacio
+21 Cassandra Clare
+22 Donna Tartt
+23 Stephen King
+24 Cassandra Clare
+25 Patrick Rothfuss
+26 Rick Riordan
+27 Laura Hillenbrand
+28 Cassandra Clare
+29 Kristin Hannah
+30 Cassandra Clare
+31 Rainbow Rowell
+32 Marie Lu
+33 Sarah J. Maas
+34 Rick Riordan
+35 Neil Gaiman
+36 Veronica Roth
+37 Victoria Aveyard
+38 Rebecca Skloot
+39 Rick Riordan
+40 Brandon Sanderson
+41 Marissa Meyer
+42 Sarah J. Maas
+43 Cassandra Clare
+44 Laini Taylor
+45 Marissa Meyer
+46 Khaled Hosseini
+47 Leigh Bardugo
+48 Tahereh Mafi
+49 Rick Riordan
+50 Haruki Murakami
+51 Lauren Oliver
+52 Fredrik Backman
+53 Ally Condie
+54 Graeme Simsion
+55 Sarah J. Maas
+56 M.L. Stedman
+57 Tina Fey
+58 Benjamin Alire Sáenz
+59 Emily St. John Mandel
+60 Stephanie Perkins
+61 Richelle Mead
+62 Maggie Stiefvater
+63 Susan Cain
+64 Maria Semple
+65 Kate Atkinson
+66 Sergio Cobo
+67 Ken Follett
+68 Lauren Oliver
+69 Brandon Sanderson
+70 Rick Riordan
+71 Rick Yancey
+72 Ruta Sepetys
+73 Robert Galbraith
+74 Dan Brown
+75 Malala Yousafzai
+76 Richelle Mead
+77 Deborah Harkness
+78 J.K. Rowling
+79 Madeline Miller
+80 Sarah J. Maas
+81 Chimamanda Ngozi Adichie
+82 Jennifer Egan
+83 S.J. Watson
+84 Rick Riordan
+85 Michelle Hodkin
+86 Julian Barnes
+87 Becca Fitzpatrick
+88 Hilary Mantel
+89 Hanya Yanagihara
+90 Justin Cronin
+91 Richelle Mead
+92 Adam Mansbach
+93 Sarah J. Maas
+94 Julie Kagawa
+95 Becca Fitzpatrick
+96 Chad Harbach
+97 Lauren Oliver
+98 Ann Patchett
+99 Ken Follett
+100 Beth Revis
+101 Jonathan Franzen
+102 Cheryl Strayed
+103 Erik Larson
+104 Liane Moriarty
+105 John Tiffany
+106 Angie Thomas
+107 Helen Simonson
+108 Leigh Bardugo
+109 Ta-Nehisi Coates
+110 Pierce Brown
+111 William Landay
+112 Lauren Kate
+113 David Mitchell
+114 Cynthia Hand
+115 Rachel Joyce
+116 Adam  Johnson
+117 Kiera Cass
+118 Rachel Hawkins
+119 Kiera Cass
+120 Patrick Ness
+121 Sue Monk Kidd
+122 Madeline Miller
+123 Naomi Novik
+124 Helene Wecker
+125 Eowyn Ivey
+126 Cassandra Clare
+127 Allie Brosh
+128 Stephen King
+129 Brian K. Vaughan
+130 Marie Lu
+131 E.L. James
+132 Ruth Ozeki
+133 Hannah Kent
+134 Colson Whitehead
+135 Daniel James Brown
+136 Christopher Paolini
+137 Rainbow Rowell
+138 Marie Lu
+139 Liane Moriarty
+140 Daniel Kahneman
+141 Amor Towles
+142 Robert Galbraith
+143 Christina Baker Kline
+144 Jennifer L. Armentrout
+145 M.R. Carey
+146 Jonas Jonasson
+147 Sarah J. Maas
+148 Lauren Kate
+149 John Green
+150 Gabrielle Zevin
+151 Rick Riordan
+152 Patti Smith
+153 Paula McLain
+154 Stephenie Meyer
+155 Delia Owens
+156 Gail Honeyman
+157 Mindy Kaling
+158 Leigh Bardugo
+159 Ransom Riggs
+160 Pierce Brown
+161 Jodi Picoult
+162 Zoltan Andrejkovics
+163 James Dashner
+164 Elena Ferrante
+165 Kelley Armstrong
+166 Blake Crouch
+167 E.L. James
+168 Rick Riordan
+169 Hugh Howey
+170 Alexandra Bracken
+171 Trevor Noah
+172 Becky Albertalli
+173 George Saunders
+174 David Mitchell
+175 Louise Erdrich
+176 N.K. Jemisin
+177 Patrick deWitt
+178 Veronica Roth
+179 Harper Lee
+180 Tara Westover
+181 Seth Grahame-Smith
+182 Alan Bradley
+183 Gayle Forman
+184 Jamie McGuire
+185 Marissa Meyer
+186 Jeffrey Eugenides
+187 Joe Hill
+188 Celeste Ng
+189 Karen Joy Fowler
+190 James Dashner
+191 E.L. James
+192 Margaret Atwood
+193 Jandy Nelson
+194 Sabaa Tahir
+195 Yaa Gyasi
+196 Alice Hoffman
+197 Michael   Lewis
+198 Haruki Murakami
+199 Edmund de Waal
+200 P.C. Cast
+201 Paul Kalanithi
+202 Brandon Sanderson
+203 Kristin Cashore
+204 Ally Condie
+205 Yuval Noah Harari
+206 Susan Ee
+207 Jess Walter
+208 Sarah J. Maas
+209 Marisha Pessl
+210 V.E. Schwab
+211 Pittacus Lore
+212 Carol Rifka Brunt
+213 Lisa Genova
+214 David Levithan
+215 Jennifer Niven
+216 Amy Poehler
+217 Jandy Nelson
+218 Kate Morton
+219 Vanessa Diffenbaugh
+220 Lauren Oliver
+221 Rick Riordan
+222 Tahereh Mafi
+223 Richelle Mead
+224 Josephine Angelini
+225 Colleen Hoover
+226 Terry Hayes
+227 Pierce Brown
+228 Colleen Hoover
+229 Philipp Meyer
+230 C.C. Hunter
+231 Neil Gaiman
+232 Jeff VanderMeer
+233 Jeffrey Archer
+234 Brandon Sanderson
+235 Patricia Briggs
+236 Claire North
+237 Elizabeth Kolbert
+238 Connie Willis
+239 William Kent Krueger
+240 John Irving
+241 Kerstin Gier
+242 Mimi Jean Pamfiloff
+243 C.J. Sansom
+244 Stephen Greenblatt
+245 P.C. Cast
+246 Kazuo Ishiguro
+247 Bryan Stevenson
+248 Jennifer A. Nielsen
+249 Jenny  Lawson
+250 Fredrik Backman
+251 Joe Hill
+252 Jessie Burton
+253 Ruta Sepetys
+254 Amanda Hocking
+255 Ally Carter
+256 Taylor Jenkins Reid
+257 Viet Thanh Nguyen
+258 Jim Butcher
+259 Justin Cronin
+260 Tom Franklin
+261 Maggie Stiefvater
+262 David Foster Wallace
+263 Don  Phelan
+264 Heather Dixon Wallwork
+265 Julie Kagawa
+266 Julie Kagawa
+267 Marlon James
+268 Isabel Wilkerson
+269 Hugh Howey
+270 Rosamund Lupton
+271 Karen Russell
+272 Veronica Roth
+273 Louise Penny
+274 Richard Flanagan
+275 Juan Gómez-Jurado
+276 Katherine Applegate
+277 Geraldine Brooks
+278 Karen Thompson Walker
+279 Stacy Schiff
+280 Ken Follett
+281 Jennifer L. Armentrout
+282 Julie Kagawa
+283 Carlos Ruiz Zafón
+284 Robert Jordan
+285 Peter Heller
+286 Cassandra Clare
+287 Shilpi Somaya Gowda
+288 Piper Kerman
+289 Becca Fitzpatrick
+290 Lois Lowry
+291 Martha Wells
+292 Rick Yancey
+293 Reza Aslan
+294 Alex Michaelides
+295 Marissa Meyer
+296 Cassandra Clare
+297 John Zelazny
+298 John A.   Saunders
+299 Kerstin Gier
+300 Emma Cline
+301 Jodi Picoult
+302 Anthony Ryan
+303 Claudia Gray
+304 Sarah J. Maas
+305 Maggie Stiefvater
+306 Jacqueline Winspear
+307 John Green
+308 Elena Ferrante
+309 Mary Ann Shaffer
+310 Soman Chainani
+311 Lawrence Wright
+312 Jodi Picoult
+313 W. Bruce Cameron
+314 Thomas Piketty
+315 Holly Black
+316 Marie Lu
+317 Stephen King
+318 Mohsin Hamid
+319 Sarah Waters
+320 Sylvain Neuvel
+321 Amanda Coplin
+322 Sophie Kinsella
+323 Julian Barnes
+324 Katherine Addison
+325 Anthony Horowitz
+326 Michael  Murphy
+327 Jesmyn Ward
+328 Emily M. Danforth
+329 Ammar Habib
+330 Richard Belzer
+331 Ellen Hopkins
+332 V.E. Schwab
+333 Sally Rooney
+334 Patrick Ness
+335 Jonathan Franzen
+336 M.H. Boroson
+337 Ali Smith
+338 Neal Shusterman
+339 James Faro
+340 Harpie
+341 James Faro
+342 Paula McLain
+343 Ocean Vuong
+344 Stephen Fry
+345 Bernard Cornwell
+346 Sarah Addison Allen
+347 Chris Bohjalian
+348 Ally Carter
+349 Madeleine K. Albright
+350 Amanda Hocking
+351 Fredrik Backman
+352 Ron Chernow
+353 Jonathan Haidt
+354 David Baldacci
+355 Stephen King
+356 Seanan McGuire
+357 Deborah Blum
+358 Sara Raasch
+359 Rick Riordan
+360 Janet Evanovich
+361 Alyson Richman
+362 Laini Taylor
+363 Kevin Powers
+364 Louise Penny
+365 Han Kang
+366 Marissa Meyer
+367 Gary Shteyngart
+368 Svetlana Alexievich
+369 Helen Castor
+370 Jojo Moyes
+371 Janet Evanovich
+372 R.F. Kuang
+373 Fredrik Backman
+374 Brian Selznick
+375 David Sedaris
+376 Jeanette Winterson
+377 Jon Krakauer
+378 John Scalzi
+379 Kiera Cass
+380 Jenny Han
+381 Siddhartha Mukherjee
+382 Alexandra Adornetto
+383 Amal El-Mohtar
+384 Portia de Rossi
+385 Paul Beatty
+386 Patrick Ness
+387 Mandy Stadtmiller
+388 Katja Millay
+389 Tom Perrotta
+390 A.J. Finn
+391 John Shelton Jones
+392 Jennifer Donnelly
+393 Michael J. Sullivan
+394 James Bowen
+395 Katherine Arden
+396 David Baldacci
+397 Neil Gaiman
+398 Gena Showalter
+399 Thomas Pynchon
+400 E.L. James
+401 Laini Taylor
+402 Ally Carter
+403 Tabitha Suzuma
+404 Katherine Arden
+405 John Hart
+406 Veronica Roth
+407 Harlan Coben
+408 Catherynne M. Valente
+409 Michael Connelly
+410 George R.R. Martin
+411 Jim Butcher
+412 Abbi Glines
+413 Fiona Carnarvon
+414 Harlan Coben
+415 Maggie Stiefvater
+416 Edward Rutherfurd
+417 John Grisham
+418 Robert A. Caro
+419 Dan Wells
+420 Joe Abercrombie
+421 Chris Colfer
+422 Robin Hobb
+423 Kate  Moore
+424 Jason K. Stearns
+425 Don DeLillo
+426 Chris Cleave
+427 Zadie Smith
+428 Sophie Kinsella
+429 Leonard Seet
+430 Tabitha McGowan
+431 Chris Hadfield
+432 Brandon Stanton
+433 Jonathan Macpherson
+434 Tana French
+435 Mimi Jean Pamfiloff
+436 Colleen Hoover
+437 Terry Pratchett
+438 Ibram X. Kendi
+439 Sophie Kinsella
+440 Kami Garcia
+441 Ben Aaronovitch
+442 Stephen King
+443 Andrew  Smith
+444 Robin Roe
+445 Robin Hobb
+446 Neil Gaiman
+447 Bob Woodward
+448 Gena Showalter
+449 Marilynne Robinson
+450 Kendare Blake
+451 Liu Cixin
+452 Jennifer L. Armentrout
+453 James Sillwood
+454 Seth Dickinson
+455 S.C. Gwynne
+456 Janet E. Morris
+457 Claudia Rankine
+458 Alice LaPlante
+459 Emma Healey
+460 Janet E. Morris
+461 Margot Lee Shetterly
+462 Colm Tóibín
+463 Ilona Andrews
+464 Amy Bloom
+465 John Boyne
+466 Anne Tyler
+467 Margaret Atwood
+468 Caitlín R. Kiernan
+469 Holly Black
+470 Mira Grant
+471 Brian K. Vaughan
+472 Amish Tripathi
+473 Toni Morrison
+474 Django Wexler
+475 Nancy Isenberg
+476 Lauren Beukes
+477 Harpie
+478 C.S. Pacat
+479 Helen Oyeyemi
+480 Michael   Lewis
+481 Wiley Cash
+482 Arundhati Roy
+483 Courtney Summers
+484 Jillian Lauren
+485 Deborah Harkness
+486 Dennis Lehane
+487 Michael   Lewis
+488 Terry Pratchett
+489 Mats Strandberg
+490 Alexandra Bracken
+491 Chris  Pavone
+492 Joe Hill
+493 Ilona Andrews
+494 Alexandra Bracken
+495 Laila Lalami
+496 Kerstin Gier
+497 Jon Ronson
+498 Julie Maroh
+499 Fannie Flagg
+500 James S.A. Corey
+501 Jeffrey Archer
+502 Jennifer Robson
+503 Michael J. Sullivan
+504 Gilbert King
+505 Kathleen Baldwin
+506 Cassandra Clare
+507 Marissa Meyer
+508 Greg Sestero
+509 James Patterson
+510 Susan Ee
+511 Cherie Dimaline
+512 Ally Carter
+513 Brandon Sanderson
+514 James Comey
+515 Philip Kerr
+516 Susannah Cahalan
+517 Tracy Guzeman
+518 Dot Hutchison
+519 Esi Edugyan
+520 Hajime Isayama
+521 Karen Russell
+522 V.E. Schwab
+523 Rabih Alameddine
+524 Tana French
+525 Judith Flanders
+526 Rachel Caine
+527 Eimear McBride
+528 Mary Robinette Kowal
+529 Ha-Joon Chang
+530 Laline Paull
+531 John Grisham
+532 Jane Harper
+533 Naomi Klein
+534 Gary    Anderson
+535 Jo Nesbø
+536 Venancio Cadle Gomani Jr.
+537 Sanchit Gupta
+538 Gleb Tsipursky
+539 Brandon Sanderson
+540 Eric Hublot
+541 Kevin Hearne
+542 Bernard Cornwell
+543 Neva Squires-Rodriguez
+544 B. Kristin McMichael
+545 David Sedaris
+546 Jonathan Stroud
+547 Conn Iggulden
+548 Bree Despain
+549 Kathleen Baldwin
+550 Stuart Turton
+551 Helen Oyeyemi
+552 Hernan Diaz
+553 Michelle Hodkin
+554 Lev Grossman
+555 Michel Houellebecq
+556 Amitav Ghosh
+557 Roxane Gay
+558 James R. Hannibal
+559 Laurie Frankel
+560 Samanta Schweblin
+561 Karl Wiggins
+562 Reni Eddo-Lodge
+563 Lauren Groff
+564 Kelley Armstrong
+565 Christina Henry
+566 Samantha Shannon
+567 Eoin Colfer
+568 Carol Birch
+569 Claire Messud
+570 Janet E. Morris
+571 J.M. Johnson
+572 Laini Taylor
+573 Julia Fox
+574 Richard Powers
+575 Mary Beard
+576 Nora Roberts
+577 J.M. Johnson
+578 Anne Fortier
+579 Scott Westerfeld
+580 C.J. Sansom
+581 Ayọ̀bámi Adébáyọ̀
+582 S.A. Chakraborty
+583 Conn Iggulden
+584 Patricia Briggs
+585 Victoria Aveyard
+586 Blake Crouch
+587 John Boyne
+588 Michael  Grant
+589 Ally Carter
+590 Polly Shulman
+591 Daniel O'Malley
+592 Joe Abercrombie
+593 Michael Ondaatje
+594 Edan Lepucki
+595 Christopher   Clark
+596 Melissa Landers
+597 Elle Kennedy
+598 Mark  Lawrence
+599 Nicholas Sparks
+600 Bill Browder
+601 Ali Smith
+602 B.J. Novak
+603 L.J. Smith
+604 Louise Erdrich
+605 Hugh Howey
+606 Adam Silvera
+607 Dathan Auerbach
+608 Jodi Picoult
+609 Holly Black
+610 Sally Rooney
+611 Joe Abercrombie
+612 Jenny  Lawson
+613 Andrea Wulf
+614 Philip Pullman
+615 Mindy Kaling
+616 Kim Stanley Robinson
+617 Adam Levin
+618 Bryan Lee O'Malley
+619 Margaret  Rogerson
+620 Darynda Jones
+621 Christopher Scotton
+622 Robin Hobb
+623 Jamie Ford
+624 Kelley Armstrong
+625 Lindy West
+626 Julia Scheeres
+627 Nicci French
+628 Rachel Aaron
+629 Ibram X. Kendi
+630 Carol Burnett
+631 Holly  Jackson
+632 Neil Gaiman
+633 Philip Roth
+634 Rene Denfeld
+635 Stephen King
+636 Dennis E. Taylor
+637 Harlan Coben
+638 Charlie Lovett
+639 Nora Sakavic
+640 Stephen King
+641 Tommy Orange
+642 Kiersten White
+643 Marie Brennan
+644 Ben Elton
+645 Isabel Allende
+646 Phil Knight
+647 G. Willow Wilson
+648 Dan Brown
+649 Jennifer Ashley
+650 Abigail Haas
+651 Fredrik Backman
+652 Chuck Palahniuk
+653 Deborah Harkness
+654 Chanel Miller
+655 Lisa Gardner
+656 Mitch Albom
+657 Jessica Shattuck
+658 Ruth Ware
+659 Matt Taibbi
+660 Teju Cole
+661 William Manchester
+662 Jennifer Lynn Barnes
+663 Veronica Rossi
+664 Amie Kaufman
+665 Colleen Hoover
+666 Lynn Austin
+667 C.L. Stone
+668 Viet Thanh Nguyen
+669 Neal Shusterman
+670 Stephen Hawking
+671 Jo Walton
+672 Jill Leovy
+673 Roberto Bolaño
+674 Kristen Proby
+675 Erin Morgenstern
+676 Max Hastings
+677 Charlaine Harris
+678 Jodi Taylor
+679 Howard Jacobson
+680 Stephen King
+681 Lois McMaster Bujold
+682 Peter Heller
+683 Andrew Roberts
+684 Charlaine Harris
+685 Amber Argyle
+686 Kim Stanley Robinson
+687 Colleen Hoover
+688 George R.R. Martin
+689 Caroline Kepnes
+690 Sally  Thorne
+691 Dan Fagin
+692 Tana French
+693 Michael Chabon
+694 Damon Galgut
+695 Sally Bedell Smith
+696 Marie Rutkoski
+697 Paolo Bacigalupi
+698 Diane Chamberlain
+699 Harlan Coben
+700 Huntley Fitzpatrick
+701 Tom Reiss
+702 Rick Yancey
+703 Patricia Briggs
+704 Jeffrey Archer
+705 Mark  Lawrence
+706 Dennis Lehane
+707 Jennifer L. Armentrout
+708 Mary Doria Russell
+709 Philip Kerr
+710 C.J. Sansom
+711 Angie Thomas
+712 Jill Twiss
+713 Fredrik Backman
+714 Heidi R. Kling
+715 James R. Hannibal
+716 Danelle O'Donnell
+717 Mie Hansson
+718 J.J. Sherwood
+719 Kami Garcia
+720 Lene Fogelberg
+721 Lee Burvine
+722 Maddy Lederman
+723 Brandon Sanderson
+724 Dino Olivieri
+725 A.D.T. McLellan
+726 Anouk Markovits
+727 T. Rafael Cimino
+728 M.G. Wells
+729 Haidji
+730 Joël Dicker
+731 Nadine Brandes
+732 Shon Mehta
+733 Paul Murray
+734 James R. Hannibal
+735 Lucian Bane
+736 Eric S. Nylund
+737 Felix O. Hartmann
+738 Leigh Bardugo
+739 M.H. Boroson
+740 Richard Powers
+741 James R. Hannibal
+742 Claudia Gray
+743 Louise O'Neill
+744 Stephen King
+745 Stephen Fry
+746 Patricia Heberer
+747 Elizabeth Wixley
+748 James S.A. Corey
+749 Tamara Philip
+750 Linda Howard
+751 Anita Diamant
+752 Aimee Bender
+753 Rob Lowe
+754 C.C. Hunter
+755 David  Wong
+756 Jay Kristoff
+757 Janet E. Morris
+758 Scott  Hawkins
+759 Robin Wall Kimmerer
+760 James Sillwood
+761 Adriana Trigiani
+762 James Sillwood
+763 Sara Gruen
+764 J.K. Rowling
+765 Vera Brosgol
+766 Patrick Radden Keefe
+767 Jenni Fagan
+768 Becky Albertalli
+769 Elizabeth  George
+770 Laura Buzo
+771 Louise Penny
+772 Max Porter
+773 Ned Beauman
+774 Brandon Mull
+775 Lauren Graham
+776 Joseph Boyden
+777 Alice Hoffman
+778 Heather   Morris
+779 Mark Owen
+780 Jim Butcher
+781 Shelly Crane
+782 Robert Bryndza
+783 Rosamund Hodge
+784 Yoon Ha Lee
+785 Alex Gino
+786 Brandon Sanderson
+787 Tiffany Snow
+788 Scott McCloud
+789 Alice Oseman
+790 Ed Yong
+791 Nicholas Carr
+792 Rachel Hawkins
+793 Karl Wiggins
+794 April Henry
+795 J.M. Johnson
+796 Karl Wiggins
+797 Sarra Manning
+798 Misty Copeland
+799 Lois McMaster Bujold
+800 Stacy Schiff
+801 Judy Melinek
+802 Sabaa Tahir
+803 Lissa Price
+804 Justin Torres
+805 Libba Bray
+806 Philip Pullman
+807 Ronan Farrow
+808 C.C. Hunter
+809 L.M. Hughes
+810 Seanan McGuire
+811 Christine Feehan
+812 Jojo Moyes
+813 Caragh M. O'Brien
+814 Kate Mosse
+815 Nathan Filer
+816 Alice Hoffman
+817 Karl Wiggins
+818 Edward St. Aubyn
+819 Mira Grant
+820 John Verdon
+821 Libba Bray
+822 Sebastian Barry
+823 Katherine Webb
+824 Mark  Lawrence
+825 Lee Child
+826 Kate Racculia
+827 John Heilemann
+828 Geoff Dyer
+829 Luke Gracias
+830 Shonda Rhimes
+831 Jennifer Egan
+832 Steven Pinker
+833 Simon Sebag Montefiore
+834 Emmi Itäranta
+835 Kim Edwards
+836 C.J. Daugherty
+837 John Gwynne
+838 V.E. Schwab
+839 Annie Jacobsen
+840 Jasmine Warga
+841 Chuck Klosterman
+842 Maureen Johnson
+843 James Shapiro
+844 Walter Isaacson
+845 Jason Fried
+846 Sophie Kinsella
+847 Dave Barry
+848 Kami Garcia
+849 Felicia Day
+850 Karl Ove Knausgård
+851 Ann Leckie
+852 John Barrowman
+853 Sarah Jio
+854 Anne Fortier
+855 Diana Gabaldon
+856 Stephen King
+857 Brian K. Vaughan
+858 Karl Ove Knausgård
+859 Sarah J. Maas
+860 Roberta Kagan
+861 Jennifer L. Armentrout
+862 Peter L. Bergen
+863 Terry Pratchett
+864 Nora Sakavic
+865 Lisa Gardner
+866 Rebecca Traister
+867 Margaret  Rogerson
+868 Tamsyn Muir
+869 Nora Sakavic
+870 Claudia Gray
+871 Barbara Kingsolver
+872 Rivers Solomon
+873 Conor Grennan
+874 Craig Thompson
+875 Kathy Reichs
+876 Rebecca Makkai
+877 Darynda Jones
+878 Philip C. Stead
+879 David McCullough
+880 Danielle  Paige
+881 S.C. Stephens
+882 Amitav Ghosh
+883 Holly Black
+884 Michael Finkel
+885 C.J. Box
+886 Richelle Mead
+887 Kirsty Moseley
+888 Alice Hoffman
+889 Jenna Black
+890 A.C. Gaughen
+891 Diana Rowland
+892 Lydia Davis
+893 Anna-Marie McLemore
+894 Joan Didion
+895 Jamie McGuire
+896 Rebecca    Donovan
+897 Rob Thomas
+898 Anne Lamott
+899 Mike Mullin
+900 C.L. Stone
+901 Diane Ravitch
+902 Scott Anderson
+903 E.L. Doctorow
+904 C.L. Stone
+905 Amy  Stewart
+906 Amy Harmon
+907 Paula Hawkins
+908 Tayari Jones
+909 Aline Ohanesian
+910 Diana Rowland
+911 Christos Tsiolkas
+912 Therese Anne Fowler
+913 Tash Aw
+914 Pittacus Lore
+915 C.L. Stone
+916 Paul Tremblay
+917 Shannon Hale
+918 Amy Harmon
+919 Jessica  Townsend
+920 Dana Stabenow
+921 Nicola Griffith
+922 Robert Jackson Bennett
+923 Laini Taylor
+924 Elizabeth Strout
+925 C.L. Stone
+926 William Kent Krueger
+927 N.K. Jemisin
+928 Alex Grecian
+929 Rick Riordan
+930 Lisa Genova
+931 Kim Harrison
+932 Nnedi Okorafor
+933 John Paul Stevens
+934 Victoria Schwab
+935 Courtney Allison Moulton
+936 Diane Keaton
+937 Linda Howard
+938 Beth Hoffman
+939 Rainbow Rowell
+940 Caitlin Doughty
+941 Elizabeth Mckenzie
+942 Sebastian Junger
+943 Michele Vail
+944 Jebb A. Rebal
+945 Holly Black
+946 Michael  West
+947 Ravina Thakkar
+948 The Brothers Washburn
+949 Zack Love
+950 Judy Haar
+951 C.L. Stone
+952 M.  Robinson
+953 Michele Breza
+954 Carl Alves
+955 Rami Shamir
+956 Kim Michele Richardson
+957 Steve  Morris
+958 J. Cafesin
+959 Marina Keegan
+960 J. Cafesin
+961 Jennifer Estep
+962 Christelle Dabos
+963 Thomas King
+964 Michael  West
+965 Jared Diamond
+966 Ron Paul
+967 C.L. Stone
+968 Tamara Philip
+969 Terry Brooks
+970 Terry Brooks
+971 Terry Brooks
+972 Terry Brooks
+973 Jennifer Kloester
+974 Megan Whalen Turner
+975 Mark Samuels
+976 J.K. Rowling
+977 Eva Saulitis
+978 Sarah J. Maas
+979 Kristen Ashley
+980 Susan Orlean
+981 Nataša Pantović
+982 Samra Habib
+983 Jaclyn Moriarty
+984 James  Glass
+985 K.C. Harry
+986 Michael Crummey
+987 Ben Elton
+988 Cora Carmack
+989 Griet Op de Beeck
+990 Mason Sabre
+991 Amy Tintera
+992 Elizabeth Wixley
+993 Don Winslow
+994 Rachel Held Evans
+995 Bessel van der Kolk
+996 Bill James
+997 Edward E. Baptist
+998 Ernest Cline
+999 Michael  West
+1000 James Aitcheson
+1001 K.C. Harry
+1002 Simon Van Booy
+1003 Tamara Philip
+1004 Rosamund Hodge
+1005 Ali Benjamin
+1006 Kelly Oram
+1007 Neal Stephenson
+1008 Nataša Pantović
+1009 Michael Greger
+1010 Monica McCarty
+1011 James C. Whorton
+1012 Thomas Asbridge
+1013 C.L. Stone
+1014 Brandon Nolta
+1015 Ben Aaronovitch
+1016 John Gwynne
+1017 Jessica Spotswood
+1018 Michael  West
+1019 Jenny Han
+1020 Peter Enns
+1021 Jennifer Estep
+1022 Amanda Palmer
+1023 Alexandra Bracken
+1024 Laura McHugh
+1025 Sarah Crossan
+1026 Matthew Quick
+1027 Christie Golden
+1028 Kenneth Oppel
+1029 Andrew Solomon
+1030 Ben Aaronovitch
+1031 K. Ancrum
+1032 Charlaine Harris
+1033 Michael Robotham
+1034 David Mamet
+1035 Marianne de Pierres
+1036 Jeet Thayil
+1037 Lia Habel
+1038 Michael  West
+1039 Chelsea Luna
+1040 Morrissey
+1041 Laura Thalassa
+1042 Susan Gabrielle
+1043 J.M. Johnson
+1044 Roz Chast
+1045 Megan Whalen Turner
+1046 Mark  Lawrence
+1047 Ta-Nehisi Coates
+1048 J.C. Owens
+1049 Jonathan Lethem
+1050 Trenton Lee Stewart
+1051 Wade Davis
+1052 Rob Thurman
+1053 Rosamund Hodge
+1054 Tim Johnston
+1055 Amy  Stewart
+1056 Elizabeth Pisani
+1057 Padma Viswanathan
+1058 Marissa Meyer
+1059 Ned Hayes
+1060 Jessica West
+1061 Mary E. Pearson
+1062 Terry Pratchett
+1063 Peter Pomerantsev
+1064 Jean-Yves Ferri
+1065 Emil Ferris
+1066 Eoin Dempsey
+1067 E.K. Weaver
+1068 Maira Kalman
+1069 J.M. Coetzee
+1070 William H. Gass
+1071 Oli Smith
+1072 Rebecca Musser
+1073 John Blandly
+1074 Livia Blackburne
+1075 Louise Penny
+1076 Sophie Mackintosh
+1077 Joseph Fink
+1078 Jennifer Ashley
+1079 Peter Baker
+1080 David Perlmutter
+1081 Bill Nye
+1082 Ayaan Hirsi Ali
+1083 Danielle  Paige
+1084 Seth Grahame-Smith
+1085 Chris Colfer
+1086 Jay Asher
+1087 Gary Russell
+1088 Shari Lapena
+1089 Marissa Meyer
+1090 Colin Woodard
+1091 Angie  Kim
+1092 Belinda McBride
+1093 Justin Cronin
+1094 Cat Patrick
+1095 David Llewellyn
+1096 Blake Crouch
+1097 Genevieve Cogman
+1098 Ashlee Vance
+1099 Gerard Woodward
+1100 Timur Vermes
+1101 David Baldacci
+1102 Daron Acemoğlu
+1103 Amos Oz
+1104 Jennifer L. Armentrout
+1105 Linda Howard
+1106 Shay Savage
+1107 Wendelin Van Draanen
+1108 Isobelle Carmody
+1109 Debora Geary
+1110 Amy Harmon
+1111 Susie Steiner
+1112 Terry Pratchett
+1113 Terry Pratchett
+1114 Laurent Binet
+1115 Philip Pullman
+1116 Hanya Yanagihara
+1117 Will Wiles
+1118 سعود السنعوسي
+1119 T.A. Uner
+1120 Emily Nagoski
+1121 Lisa See
+1122 Smith Henderson
+1123 B.A. Paris
+1124 Stacey Halls
+1125 Wendy McClure
+1126 Jus Accardo
+1127 Barbara Ehrenreich
+1128 Gloria Steinem
+1129 Brian K. Vaughan
+1130 Denise Kiernan
+1131 Brit Bennett
+1132 T.R. Graves
+1133 Mike Mignola
+1134 Bob Woodward
+1135 Tiffany Snow
+1136 Beth Groundwater
+1137 Bill O'Reilly
+1138 Phil Klay
+1139 Tana French
+1140 Sherry Gammon
+1141 Kim Barnouin
+1142 David Baldacci
+1143 Dan Wells
+1144 John Ajvide Lindqvist
+1145 Teri Terry
+1146 Nancy Gibbs
+1147 Peter H. Diamandis
+1148 Tiffany Snow
+1149 James Patterson
+1150 Maya Banks
+1151 Jean-Yves Ferri
+1152 Giulia Enders
+1153 Kayla Rae Whitaker
+1154 Georgia Hunter
+1155 Ruth Hogan
+1156 Edward Snowden
+1157 Adam Kay
+1158 Adam Hochschild
+1159 William Blum
+1160 Jennifer   Miller
+1161 Paul Auster
+1162 Lois McMaster Bujold
+1163 Janet Mock
+1164 Jonathan Safran Foer
+1165 Kristin Hannah
+1166 Matt Ruff
+1167 Daniel Abraham
+1168 David Van Reybrouck
+1169 Vince Flynn
+1170 David Baldacci
+1171 Alia Malek
+1172 Lyudmila Ulitskaya
+1173 Kate Quinn
+1174 Adam Silvera
+1175 Tiffany Snow
+1176 John Ostrander
+1177 Kate Mulgrew
+1178 Curtis Sittenfeld
+1179 Ryan North
+1180 Jhumpa Lahiri
+1181 Lynsay Sands
+1182 Vicki Constantine Croke
+1183 Jonathan Stroud
+1184 Jo Nesbø
+1185 Adrienne Young
+1186 M.K. Hobson
+1187 Christopher Moore
+1188 Lydia Netzer
+1189 Jenna Black
+1190 Jon Meacham
+1191 Christian Rudder
+1192 Anthony Doerr
+1193 David Lagercrantz
+1194 Mohamedou Ould Slahi
+1195 Tracey Garvis Graves
+1196 Rob Sheffield
+1197 Richard Powers
+1198 Shelly Crane
+1199 Melanie Benjamin
+1200 Steven D. Levitt
+1201 Ben Aaronovitch
+1202 Sandy Williams
+1203 Samantha Shannon
+1204 Edgar Cantero
+1205 Dacre Stoker
+1206 Aaron Reynolds
+1207 Tanya Huff
+1208 Tanya Huff
+1209 Jenna Black
+1210 Daniel Clowes
+1211 Sue Klebold
+1212 Chris Bohjalian
+1213 Danielle L. Jensen
+1214 Omar El Akkad
+1215 Mike Mearls
+1216 Caroline Moorehead
+1217 Brandon Mull
+1218 Cavan Scott
+1219 Kresley Cole
+1220 Ian  Hamilton
+1221 David    Joy
+1222 Salman Rushdie
+1223 Suzanne Young
+1224 Lisa McInerney
+1225 Ben Aaronovitch
+1226 Arlie Russell Hochschild
+1227 Dave Eggers
+1228 William Trevor
+1229 Paul Harding
+1230 John Joseph Adams
+1231 Marjorie M. Liu
+1232 Chris Hedges
+1233 Kelly Rimmer
+1234 Josh Malerman
+1235 Richelle Mead
+1236 Victoria Danann
+1237 Julie Kagawa
+1238 Mary Kubica
+1239 Evie Wyld
+1240 Lyndsay Faye
+1241 Alan Moore
+1242 Tricia Levenseller
+1243 James S.A. Corey
+1244 Alexander McCall Smith
+1245 Charles Belfoure
+1246 Rachel Campbell-Johnston
+1247 Heather Cocks
+1248 Rachel Hollis
+1249 Jay Posey
+1250 Ilona Andrews
+1251 Linda Castillo
+1252 Frances Hardinge
+1253 Julie Schumacher
+1254 Tom McCarthy
+1255 Andrea Randall
+1256 Bella Forrest
+1257 Jessica Day George
+1258 Ann Patchett
+1259 Robin Benway
+1260 S.J. Kincaid
+1261 Seanan McGuire
+1262 Katharine McGee
+1263 Jayne Castle
+1264 George Takei
+1265 Patrick McDonnell
+1266 John Bateson
+1267 Christopher Hitchens
+1268 Adam Sternbergh
+1269 Billy Collins
+1270 Alexander Gordon Smith
+1271 Diane Chamberlain
+1272 Garth Risk Hallberg
+1273 Camilla Gibb
+1274 Carly Phillips
+1275 Jennifer    Ryan
+1276 Jenny Nordberg
+1277 Kenneth C. Davis
+1278 Annie Baker
+1279 Cynthia Willerth
+1280 David M. Brown
+1281 April Brookshire
+1282 Daniel  Grant
+1283 Ira Teller
+1284 Rebecca O'Donnell
+1285 Summer Pierre
+1286 Joshuah Buckle
+1287 Elizabeth Percer
+1288 William D. Writer
+1289 Dave Kish
+1290 Luís Caminha
+1291 Calvin Wade
+1292 Belle Blackburn
+1293 Keith Ellison
+1294 C.S. Ferguson
+1295 Laurann Dohner
+1296 T.D. McMichael
+1297 Nancy Hogue
+1298 Backwoods
+1299 Rich Okun
+1300 Jay Christian
+1301 Rhys Hughes
+1302 Gene Wolfe
+1303 Kevin McLeod
+1304 Mary Novik
+1305 Robin Hawdon
+1306 Jenifer Mohammed
+1307 Viktoriya Molchanova
+1308 Gregory Denaro
+1309 Katie  Welch
+1310 Layla Fiske
+1311 Timothy  Patrick
+1312 Matthew Keegan
+1313 O.L. Ramos
+1314 Robert Deis
+1315 Jane Wilson-Howarth
+1316 Rose Wynters
+1317 Mary McAuliffe
+1318 Rudi Hilmanto
+1319 Jesmyn Ward
+1320 C.E.   Smith
+1321 David M. Wolf
+1322 Kenneth Eade
+1323 Jason A. Cheek
+1324 Suzy Kassem
+1325 Garielle Lutz
+1326 Thom Hatch
+1327 David        Smith
+1328 Νίκος Παργινός
+1329 Bella Andre
+1330 Henry G. Sheppard
+1331 Phillip Tomasso III
+1332 A.J. Perry
+1333 R.M.A. Spears
+1334 S. DeGiorgio
+1335 Corrado Ghinamo
+1336 Anne Sweazy-Kulju
+1337 Michael DeForge
+1338 Phil Harvey
+1339 Ryka Aoki
+1340 Antonia Fraser
+1341 Bob Rich
+1342 Richard Botelho
+1343 Christopher  Bailey
+1344 Isabel Curtis
+1345 Terry Brooks
+1346 Kristien Hemmerechts
+1347 Jason Cox
+1348 K.G. Johansson
+1349 John F. Feet
+1350 Marie White Small
+1351 Robert Reynolds
+1352 Daniel Glattauer
+1353 Mark Titus
+1354 Rachelle Dekker
+1355 Hope St. Amant
+1356 Jean Johnson
+1357 Amy Mah
+1358 Belle Aurora
+1359 Pablo d'Ors
+1360 Poile Sengupta
+1361 R. Allen Chappell
+1362 Alejandro Zambra
+1363 Bali Rai
+1364 Loretta Chase
+1365 Mason Lucas
+1366 Violet's Vegan Comics
+1367 Sakina B. Fakhri
+1368 Assaph Mehr
+1369 John     Fitzgerald
+1370 Colleen Carroll Campbell
+1371 Justin Lee
+1372 Karpov Kinrade
+1373 Billie Livingston
+1374 Sam Parker  McLeod
+1375 Alexandra Kleeman
+1376 Susmit Sarkar
+1377 Mike  Miller
+1378 Amy A. Bartol
+1379 Terry Burrows
+1380 Catherine Keese
+1381 Casey Lawrence
+1382 Diana T. Scott
+1383 Greg Spry
+1384 Virginia Baily
+1385 Yasmin Mogahed
+1386 Trish Doller
+1387 Jana Janeway
+1388 Zale Zillions
+1389 Jamie Jo Hoang
+1390 Novoneel Chakraborty
+1391 Emma   James
+1392 W. Bruce Cameron
+1393 Melanie McCullough
+1394 Arno Geiger
+1395 Nadine Brandes
+1396 Christine Church
+1397 Paula Stokes
+1398 Miles A. Maxwell
+1399 Aileen Bordman
+1400 Ashley Capes
+1401 Lily Brooks-Dalton
+1402 Amazon Digital Services Inc.
+1403 Auriel Roe
+1404 Jaye L. Knight
+1405 Natasha Preston
+1406 Bill V. Mullen
+1407 Sumit Agarwal
+1408 Scott  Thomas
+1409 Alessandro Boccaletti
+1410 Sarah Rees Brennan
+1411 Chang-rae Lee
+1412 Aly Martinez
+1413 Carol McKibben
+1414 Victoria Laurie
+1415 José Rodrigues dos Santos
+1416 Timothy  Dalton
+1417 Gord Deppe
+1418 Kevin J. Shay
+1419 Patrick F. Rooney
+1420 Fyodor Bukowski
+1421 V. Frank Asaro
+1422 Holly E. Tripp
+1423 Bob LiVolsi
+1424 Daniel José Older
+1425 Ray Bourhis
+1426 Stephanie Perkins
+1427 Christine Feehan
+1428 Tanaz Bhathena
+1429 Barney Norris
+1430 Terry R. Hill
+1431 Javier Cercas
+1432 Kirthi Jayakumar
+1433 Robyn Mundell
+1434 Lucian Bane
+1435 Richard Castle
+1436 Zoë Morrison
+1437 Lucian Bane
+1438 Yael Politis
+1439 R.C. Goodwin
+1440 Paul Tuttle Starr
+1441 Satyananda Saraswati
+1442 Mark  Montgomery
+1443 Kristen Kooistra
+1444 W.S. Merwin
+1445 Louise Blackwick
+1446 Mike Stop Continues
+1447 Kevin J. Shay
+1448 Michelle Sagara
+1449 Sudipta   Das
+1450 Kay Moser
+1451 Meg Howrey
+1452 Jean Kwok
+1453 László Krasznahorkai
+1454 Julia Watts
+1455 Steve Sheinkin
+1456 Summer Warner
+1457 Elle Nash
+1458 Nina Willner
+1459 Ezra F. Vogel
+1460 Vanessa Grigoriadis
+1461 Kiersten White
+1462 Валерій Маркус
+1463 Joanne Bischof
+1464 Gary L. Thomas
+1465 Archimedes Muzenda
+1466 Eve   Harris
+1467 Kristen Ashley
+1468 Rachel Hollis
+1469 Vikki Kestell
+1470 Abdi Nazemian
+1471 Ashni Sonawala
+1472 Laurie Halse Anderson
+1473 Seth Stephens-Davidowitz
+1474 Mathias Énard
+1475 Mitchell James Kaplan
+1476 Onjali Q. Raúf
+1477 Joe Hill
+1478 Mahvash Sabet
+1479 NOT A BOOK
+1480 Steven Naifeh
+1481 Matthew Mather
+1482 Binyamin Lau
+1483 David Mack
+1484 Jodi Kantor
+1485 Rick Atkinson
+1486 Chris Ware
+1487 Gerard Way
+1488 Robert Thier
+1489 James Clear
+1490 Charlaine Harris
+1491 Tamuna Tsertsvadze
+1492 Nataša Pantović
+1493 Amy Harmon
+1494 NisiOisiN
+1495 Peter Wisan
+1496 Will Holcomb
+1497 Leah Lakshmi Piepzna-Samarasinha
+1498 Mary Beard
+1499 Jasper Fforde
+1500 Katya Apekina
+1501 Justin Isis
+1502 Michael Pye
+1503 Nikole Hannah-Jones
+1504 Sharon M. Draper
+1505 Keiichirō Hirano
+1506 Christopher  Ryan
+1507 Elena Ferrante
+1508 Erol Ozan
+1509 Ryne Douglas Pearson
+1510 T.R. Graves
+1511 Rachel Haimowitz
+1512 Joseph Menn
+1513 Mandy Hubbard
+1514 David M. Brown
+1515 Richard Davenport-Hines
+1516 J. Cafesin
+1517 Nancy Hogue
+1518 Jay Christian
+1519 Will McIntosh
+1520 Holly Bourne
+1521 Ann Hite
+1522 Ruth  Silver
+1523 Jennifer Leigh Wells
+1524 Michael G.  Williams
+1525 Gretchen Preston
+1526 Ross Willard
+1527 T.A. Uner
+1528 O.L. Ramos
+1529 Rose Wynters
+1530 Duane Swierczynski
+1531 D.C. Mahoney
+1532 Νίκος Παργινός
+1533 Phillip Tomasso III
+1534 Joni Eareckson Tada
+1535 Kelly Braffet
+1536 John S. Lynch
+1537 Jenny Twist
+1538 Makoto Yukimura
+1539 Christopher Rankin
+1540 Adrienne D'nelle Ruvalcaba
+1541 Richard Wolkomir
+1542 Zack Love
+1543 K.C. Blaze
+1544 Michael Christie
+1545 E.L. Wicker
+1546 Andrew J. Bacevich
+1547 Padgett Powell
+1548 serenity finlay
+1549 Darlene M. Kuncytes
+1550 Frank Linn
+1551 Clare O'Beara
+1552 Στέλιος Χαλκίτης
+1553 Leanne Betasamosake Simpson
+1554 Jennifer A. Nielsen
+1555 John Darnielle
+1556 Shelly Crane
+1557 Corrado Ghinamo
+1558 Anne Sweazy-Kulju
+1559 Rich DiSilvio
+1560 Laurențiu M. Badea
+1561 Mitch Horowitz
+1562 Hope Larson
+1563 Brian K. Vaughan
+1564 NOT A BOOK
+1565 Icy Rivers
+1566 Wendy Moore
+1567 Loren Edizel
+1568 Alex E. Carey
+1569 Russell Banks
+1570 Phillip Tomasso III
+1571 Jenny Twist
+1572 Makoto Yukimura
+1573 Roberta Kagan
+1574 K.C. Harry
+1575 Linda Poitevin
+1576 Emma Jay
+1577 Dan Abnett
+1578 Zack Love
+1579 J.J. Abrams
+1580 Marios Savva
+1581 K.C. Blaze
+1582 Alison Jean Lester
+1583 Orson Scott Card
+1584 Damien Wynn
+1585 Stelios Chalkitis
+1586 Erik Brynjolfsson
+1587 Matt Soltys
+1588 Corrado Ghinamo
+1589 Anne Sweazy-Kulju
+1590 Neva Squires-Rodriguez
+1591 Tillie Cole
+1592 Mollie Moran
+1593 Christopher  Bailey
+1594 G.B. Hope
+1595 Rachel Held Evans
+1596 Robert Reynolds
+1597 Bob Dylan
+1598 Courtney Summers
+1599 Leanne Betasamosake Simpson
+1600 C.G. Conrad
+1601 Taylor M. Polites
+1602 Jade Clark
+1603 Tom    Taylor
+1604 Jade West
+1605 Tim Winton
+1606 James  Bradley
+1607 Joseph O'Connor
+1608 Robert Reynolds
+1609 Carl Alves
+1610 John Medina
+1611 Anu Holopainen
+1612 Jennifer Estep
+1613 Christopher Dickey
+1614 Monika Zgustová
+1615 Lilith Saintcrow
+1616 Dorothy Koomson
+1617 David Athey
+1618 Don Winslow
+1619 Carla Federico
+1620 W.D. Clarke
+1621 Rachel Aaron
+1622 James Luceno
+1623 Bea Uusma
+1624 Amy Cuddy
+1625 Dedra L. Stevenson
+1626 Mindy McGinnis
+1627 S. Theodore Baskaran
+1628 Anne Bishop
+1629 Jordan B. Peterson
+1630 Kristen Ashley
+1631 Karen Bao
+1632 Holger Eckhertz
+1633 Tom Holland
+1634 David Park
+1635 Daniel   Bryan
+1636 Δημήτρης Καρακίτσος
+1637 Sara Ella
+1638 Jessika Coker
+1639 Ghirghis Ramal
+1640 Caitlin Doughty
+1641 Ransom Riggs
+1642 Joachim Meyerhoff
+1643 Walter R. Borneman
+1644 Travis M. Riddle
+1645 Amanda Lovelace
+1646 Ursula Poznanski
+1647 Robert Thier
+1648 Mackenzi Lee
+1649 Mark T. Sullivan
+1650 J. Cafesin
+1651 Stephen R.C. Hicks
+1652 Dionne Brand
+1653 Paul StJohn Mackintosh
+1654 Emuna Elon
+1655 Ian Kershaw
+1656 Matthew Thurber
+1657 Jessie Janowitz
+1658 Mo Willems
+1659 Luisa Plaja
+1660 Melina Marchetta
+1661 Brenda Wallace
+1662 Karin Tabke
+1663 G.B. Trudeau
+1664 Lucinda Riley
+1665 Brandon Mull
+1666 Laurann Dohner
+1667 Julie Cross
+1668 Martyn Stratton
+1669 J.A. Redmerski
+1670 Giles Kristian
+1671 Victoria Danann
+1672 Allison M. Dickson
+1673 Carmen Gimenez Smith
+1674 Mindy McGinnis
+1675 Rachel Vincent
+1676 Kim Askew
+1677 Danny Bland
+1678 Louie Giglio
+1679 Laird Barron
+1680 Andy Lane
+1681 Roberta Kagan
+1682 John Lanchester
+1683 Harper Fox
+1684 Tom Pawlik
+1685 Tom Clancy
+1686 Cal Newport
+1687 Joshua    Horwitz
+1688 Robert Trivers
+1689 The Kino-Nda-Niimi Collective
+1690 John Prendergast
+1691 Kimberly Karalius
+1692 Amrita Das
+1693 J. Cafesin
+1694 Peter Rollins
+1695 Sherry Thomas
+1696 Robert Reynolds
+1697 Trevor D. Richardson
+1698 Michelle  Morgan
+1699 Jennifer Estep
+1700 Monika Zgustová
+1701 R. Allen Chappell
+1702 Shulem Deen
+1703 Terry Fallis
+1704 Mark Riebling
+1705 Kimberley Freeman
+1706 Carla Federico
+1707 John Ajvide Lindqvist
+1708 Dedra L. Stevenson
+1709 Tara Kelly
+1710 Maria V. Snyder
+1711 D.C. Pierson
+1712 Joris Chamblain
+1713 Devon Monk
+1714 Marina Fiorato
+1715 Bill Watterson
+1716 Denise Grover Swank
+1717 Ashley Capes
+1718 Carolina De Robertis
+1719 Adam Marek
+1720 James Wyllie
+1721 Jay Bell
+1722 Jeffrey L. Kohanek
+1723 Kate Sherwood
+1724 E.L. Doctorow
+1725 Rachel  Morgan
+1726 Connor Franta
+1727 Frances Brody
+1728 Kelly Oram
+1729 Jee Leong Koh
+1730 Bob LiVolsi
+1731 Estelle Laure
+1732 Lynsey Addario
+1733 Christine Feehan
+1734 Paul Finebaum
+1735 Lauren   Miller
+1736 Hugh Howey
+1737 Lucian Bane
+1738 Rob Nixon
+1739 Theresa L. Flores
+1740 Lysa TerKeurst
+1741 Shane Kuhn
+1742 Jim Harrison
+1743 Linda Howard
+1744 Sheila Heti
+1745 Sy Montgomery
+1746 Nicole Kornher-Stace
+1747 Christopher Hitchens
+1748 Gregory F. Michno
+1749 Olivia Hawker
+1750 Ruth Ware
+1751 Juno Dawson
+1752 Kerri Maniscalco
+1753 Trent Dalton
+1754 Susan Faludi
+1755 Maja Lunde
+1756 Hannah Harrington
+1757 J.C. Owens
+1758 Larry Doyle
+1759 Jonathan  Gould
+1760 Lauren Dane
+1761 Elizabeth Norton
+1762 Laurann Dohner
+1763 John M. Cusick
+1764 Margi Preus
+1765 Anna Dewdney
+1766 Kate Belle
+1767 Ally Carter
+1768 Tanya Huff
+1769 Jan Beatty
+1770 Tanith Lee
+1771 Elif Shafak
+1772 Rachel Vincent
+1773 Nadifa Mohamed
+1774 Michele Fawcett
+1775 Mesu Andrews
+1776 Vanessa Garden
+1777 Daniel     Black
+1778 Roberta Kagan
+1779 Caroline Brothers
+1780 Aric Davis
+1781 Bryce Courtenay
+1782 Jason Arnopp
+1783 Daniel Pyne
+1784 Orson Scott Card
+1785 D.L. McDermott
+1786 Courtney Summers
+1787 Michelle Madow
+1788 Tom    Taylor
+1789 R.A. Salvatore
+1790 Patrick Ness
+1791 Bruce Lee Bond
+1792 Guillaume Musso
+1793 Mayo Clinic
+1794 Jennifer Estep
+1795 David Perlmutter
+1796 Jacquelyn Mitchard
+1797 Jon Ronson
+1798 Anna Gavalda
+1799 R. Allen Chappell
+1800 Katie MacAlister
+1801 Theresa Weir
+1802 Kirsty Eagar
+1803 Jonas Hassen Khemiri
+1804 Cinda Williams Chima
+1805 Elias Ericson
+1806 Corrine Jackson
+1807 Ashley Capes
+1808 Robert Charles Wilson
+1809 Dianne K. Salerni
+1810 Anne Frasier
+1811 Charles den Tex
+1812 Jean-Claude van Rijckeghem
+1813 Ryan Loveless
+1814 Richard Crompton
+1815 R.K. Lilley
+1816 April Genevieve Tucholke
+1817 Jacob M. Appel
+1818 Christine Feehan
+1819 Jas T. Ward
+1820 Neal Shusterman
+1821 Lucian Bane
+1822 Mariko Tamaki
+1823 Fanny Howe
+1824 Michelle Sagara
+1825 Jeff Anderson
+1826 Daniel  Howell
+1827 Nelson DeMille
+1828 J.A. White
+1829 Daniel Polansky
+1830 Kim Harrison
+1831 C.M. Connelly
+1832 NOT A BOOK
+1833 Nick  White
+1834 Barbara Nickless
+1835 Gordon K. Mantler
+1836 Devney Perry
+1837 Cat Adams
+1838 Matthias M.R. Declercq
+1839 Stephanie Danler
+1840 Charles Martin
+1841 Loretta Ellsworth
+1842 Hazel Gaynor
+1843 Caroline Lawrence
+1844 Roy Jacobsen
+1845 Jewel E. Ann
+1846 Michael Pollan
+1847 Diane Setterfield
+1848 Marissa Meyer
+1849 Hisham Matar
+1850 Jia Tolentino
+1851 Mario Escobar
+1852 William Porter
+1853 Karl Wiggins
+1854 Jack Seely
+1855 Jeffrey Archer
+1856 Nicole Kornher-Stace
+1857 Hamza Andreas Tzortzis
+1858 Frank Dikötter
+1859 Joseph Fink
+1860 Catherynne M. Valente
+1861 Nic Stone
+1862 Lisa Taddeo
+1863 Pia Foxhall
+1864 Paul  Mason
+1865 J.C. Owens
+1866 Timothy Ferriss
+1867 Glenda Larke
+1868 Barbara O'Neal
+1869 S.A. Reid
+1870 Shelly Laurenston
+1871 Laurann Dohner
+1872 Eve Hathaway
+1873 Liz    Moore
+1874 Victoria Danann
+1875 Jami Attenberg
+1876 Neil Pasricha
+1877 Christine Wushke
+1878 Carolyn Turgeon
+1879 Roberta Kagan
+1880 George W. Bush
+1881 Ron Paul
+1882 Joel C. Rosenberg
+1883 Lindsay McKenna
+1884 Gendün Chöphel
+1885 K.J. Charles
+1886 Deborah Harkness
+1887 James W. Bodden
+1888 Fabio Volo
+1889 Jennifer Estep
+1890 Nancy E. Ryan
+1891 Sally Green
+1892 Gabriel Josipovici
+1893 R. Allen Chappell
+1894 Jessie Donovan
+1895 Richard A. Jones
+1896 Ann Aguirre
+1897 Naomi Ragen
+1898 Alexa Clay
+1899 Peter Ames Carlin
+1900 Sara Hansson
+1901 Y.S. Lee
+1902 Drew Karpyshyn
+1903 Erika Swyler
+1904 Ashley Capes
+1905 Rachel Hope Cleves
+1906 Abigail Roux
+1907 Heidi Belleau
+1908 Jay Bell
+1909 Bob Proehl
+1910 Ksenia Anske
+1911 Lisa De Jong
+1912 Rachel Aaron
+1913 Michael J. Sullivan
+1914 Zoraida Córdova
+1915 Fred Krebsbach
+1916 Christine Feehan
+1917 Lucian Bane
+1918 Richard Castle
+1919 Cindy Pon
+1920 Ivan E. Coyote
+1921 Alex George
+1922 Reginald Shepherd
+1923 Laura Anne Gilman
+1924 Lena Dunham
+1925 Robert Muchamore
+1926 N.D. Stevenson
+1927 Nelson DeMille
+1928 Geoff Rodkey
+1929 N.K. Jemisin
+1930 Cynthia Harrod-Eagles
+1931 Kim Harrison
+1932 Susannah Charleson
+1933 Tomas Bannerhed
+1934 James Carlos Blake
+1935 Sasha Abramsky
+1936 Brian K. Vaughan
+1937 John Blandly
+1938 Kaja Foglio
+1939 Alan Drew
+1940 Bernard Cornwell
+1941 Jesmyn Ward
+1942 Кирило Горішний
+1943 Jennifer Chiaverini
+1944 Terry Fallis
+1945 Steven Pinker
+1946 Dick Wolf
+1947 Peter Ackroyd
+1948 D.C. Farmer
+1949 Ilona Andrews
+1950 David Garrison
+1951 Jonathan  Dee
+1952 Christian  White
+1953 Lynn Cullen
+1954 Kiersten White
+1955 Sylvain Reynard
+1956 Anne  Griffin
+1957 Kimberly McCreight
+1958 Amy  Stewart
+1959 Vivian Maier
+1960 Marie Lu
+1961 Alfred Birney
+1962 Patti Smith
+1963 Tanya Tagaq
+1964 Seth Grahame-Smith
+1965 Marissa Meyer
+1966 Ian Morgan Cron
+1967 Frédéric Chaubin
+1968 Muhammad    Khan
+1969 Alain Ayroles
+1970 Steve Jenkins
+1971 James Alan Gardner
+1972 Amaryllis Fox
+1973 Scott Westerfeld
+1974 Γιώργος Λαγκώνας
+1975 Christina Henry
+1976 David Szalay
+1977 Lisa McMann
+1978 Gregory F. Michno
+1979 David Treuer
+1980 Alison Case
+1981 Maria Kjos Fonn
+1982 Belinda Bauer
+1983 Ted Chiang
+1984 Michael J. Lippe
+1985 Imogen Binnie
+1986 Carolyn Mackler
+1987 Taylor Jenkins Reid
+1988 J.C. Owens
+1989 Tad Williams
+1990 Alexandra Bullen
+1991 Jonathan  Gould
+1992 Nalini Singh
+1993 Melody Beattie
+1994 Alexandria Constantinova Szeman
+1995 Richelle Mead
+1996 Andrew Graham-Dixon
+1997 Ruth H. Sanders
+1998 Matthew   White
+1999 S.M. Stirling
+2000 John Jeremiah Sullivan
+2001 Gail Carriger
+2002 Laura Kaye
+2003 Lucy A. Snyder
+2004 G.J. Winters
+2005 Stephen King
+2006 Will McIntosh
+2007 Marata Eros
+2008 Bernard Cornwell
+2009 S.E. Smith
+2010 Mazarkis Williams
+2011 Marissa Stapley
+2012 Mary Beth Chapman
+2013 Elizabeth Fama
+2014 Sarah Bakewell
+2015 Botho Strauß
+2016 John Jackson Miller
+2017 Mary Behre
+2018 Tom    Taylor
+2019 Joshua Fields Millburn
+2020 Rachel Lee
+2021 R.A. Salvatore
+2022 Dawn Dais
+2023 Caitlin Kittredge
+2024 Paul Magid
+2025 Christian Bobin
+2026 Cherrie Lynn
+2027 Robison Wells
+2028 Yangsze Choo
+2029 Joyce Carol Oates
+2030 Y.S. Lee
+2031 Kirsty Logan
+2032 Mark  Lawrence
+2033 Glen Weldon
+2034 David Thorne
+2035 Sarah Cohen-Scali
+2036 Mark Batterson
+2037 Nathanael O'Reilly
+2038 Abigail Roux
+2039 Aleksandr Voinov
+2040 Simone van der Vlugt
+2041 FayJay
+2042 Charles Cumming
+2043 Elif Shafak
+2044 Steven  Rowley
+2045 Rob Ziegler
+2046 Sarah Alderson
+2047 Lisa De Jong
+2048 Chris Ware
+2049 Anh Do
+2050 An Indian
+2051 Christine Feehan
+2052 Jas T. Ward
+2053 Lucian Bane
+2054 Richard Castle
+2055 Gordon Mathews
+2056 Leanne Lieberman
+2057 Hannah Tinti
+2058 Sam Harris
+2059 Laura Anne Gilman
+2060 Morris Gleitzman
+2061 David Baldacci
+2062 Andy Griffiths
+2063 Ariana Reines
+2064 Mary Robinette Kowal
+2065 Aileen Fish
+2066 Matt Haig
+2067 Martin Amis
+2068 John Blandly
+2069 Phil Foglio
+2070 Holly Bourne
+2071 Peter Baldwin
+2072 G. Willow Wilson
+2073 Олена Стяжкіна
+2074 Julie Kriss
+2075 Henriette Lazaridis Power
+2076 Richard Wagamese
+2077 Lynn Coady
+2078 Kira  Hawke
+2079 Eimear McBride
+2080 Kat Zhang
+2081 Paul Pen
+2082 David E. Hoffman
+2083 Tyler Hamilton
+2084 Lynn Austin
+2085 Sylvain Reynard
+2086 Jason   Wallace
+2087 Jodi Taylor
+2088 J.M. Coetzee
+2089 Ally Carter
+2090 Krista Madden
+2091 Jaycee Dugard
+2092 Brigid Kemmerer
+2093 George R.R. Martin
+2094 Rabee Jaber (ربيع جابر)
+2095 Kristin Harmel
+2096 Sianne Ngai
+2097 Andrew Krivak
+2098 Hannah Richell
+2099 Justin Richards
+2100 Jonas Gardell
+2101 James Gleick
+2102 Llewellyn H. Rockwell Jr.
+2103 Connie Brockway
+2104 Scott Snyder
+2105 Sabrina Jeffries
+2106 Matthew Reilly
+2107 R.A. Salvatore
+2108 Wendy     Webb
+2109 Leïla Slimani
+2110 Chris Wooding
+2111 Helen Harper
+2112 Andrew G. McCabe
+2113 Karl Vaters
+2114 Kylie Scott
+2115 Brigid Kemmerer
+2116 Jack Fairweather
+2117 Danny Winter
+2118 Guillermo del Toro
+2119 James D. Hornfischer
+2120 Sarah Rees Brennan
+2121 Marissa Meyer
+2122 Hanne Ørstavik
+2123 Sharon J. Bolton
+2124 Sharon Bala
+2125 Camille Aubray
+2126 Kevin Emerson
+2127 Beatriz Williams
+2128 Pamela Rotner Sakamoto
+2129 Stylo Fantome
+2130 Matt Fraction
+2131 Cory Doctorow
+2132 Ελένη Παπαλαμπροπούλου
+2133 Emily Edwards
+2134 Kate Devlin
+2135 Stephen J. Lofgren
+2136 Ian Urbina
+2137 Courtney Milan
+2138 Irvine Welsh
+2139 Jan Wallentin
+2140 Haruki Murakami
+2141 Steve Cavanagh
+2142 Michael Massing
+2143 Alicia Elliott
+2144 Alice Oseman
+2145 gal-dem
+2146 James S.A. Corey
+2147 Beatrice Costamagna
+2148 Sarah J. Maas
+2149 Ellen Kushner
+2150 Karen Miller
+2151 Terra Elan McVoy
+2152 Douglas Kennedy
+2153 Garth Stein
+2154 Geoffrey Germann
+2155 Ari Marmell
+2156 Mohsin Hamid
+2157 Peter Hart
+2158 Cat Patrick
+2159 Gail Godwin
+2160 Matt Chandler
+2161 Margo Lanagan
+2162 Seanan McGuire
+2163 Jonas Gardell
+2164 James Goss
+2165 Ann   Turner
+2166 Lynn Kurland
+2167 R.A. Salvatore
+2168 Jacob Haafner
+2169 Bret Anthony Johnston
+2170 Maria Dahvana Headley
+2171 Rob Thurman
+2172 Z. Altug
+2173 Caitlin Kittredge
+2174 Anna Politkovskaya
+2175 Peter     Stark
+2176 Michaelangelo Matos
+2177 Renée Rosen
+2178 Sari Botton
+2179 Jill Shalvis
+2180 Karen Chance
+2181 James Hannaham
+2182 T.V. Paul
+2183 Renata Carageani
+2184 Michelle Zink
+2185 Timothy Zahn
+2186 Jonathan Goldstein
+2187 Tish Rabe
+2188 Martin  Walker
+2189 Bobby Bones
+2190 Melissa Burke
+2191 Abigail Roux
+2192 Amy Harmon
+2193 Laura  Barnett
+2194 Terry Pratchett
+2195 Bill Bryson
+2196 Adrianne James
+2197 Michael MacCambridge
+2198 Kendra L. Saunders
+2199 George Pelecanos
+2200 Sally Field
+2201 Susan Crandall
+2202 Jennifer Robson
+2203 Michael Ondaatje
+2204 Ann Leckie
+2205 Philippa Gregory
+2206 Pierre J. Mejlak
+2207 Sharon Cameron
+2208 Laura Dave
+2209 Jessica Bruder
+2210 Michael Foreman
+2211 Boris Johnson
+2212 Alyssa Rose Ivy
+2213 N.J. Simmonds
+2214 Joe Hill
+2215 Ant Middleton
+2216 Jennifer Richard Jacobson
+2217 Charmaine Craig
+2218 Val Emmich
+2219 Yusuf Al-Hajj Ahmad
+2220 Chris Jericho
+2221 David Weber
+2222 Rose Lerner
+2223 Svetlana Alexievich
+2224 Lucy Dillon
+2225 Sally Hepworth
+2226 Ursula K. Le Guin
+2227 Jennifer L. Armentrout
+2228 David Chariandy
+2229 Niall Ferguson
+2230 Geetanjali Shree
+2231 Leah Lakshmi Piepzna-Samarasinha
+2232 Steve Silberman
+2233 Kikuko Tsumura
+2234 Beatrice Costamagna
+2235 Diane Schwemm
+2236 Alexandra Hawkins
+2237 Rosanne Cash
+2238 Paul Bailey
+2239 Ari Marmell
+2240 Matt Ruff
+2241 Sarah Crossan
+2242 Juan Pablo Villalobos
+2243 Chris  Pavone
+2244 David C. Searle
+2245 Charlotte Rogan
+2246 Martin Day
+2247 George Weigel
+2248 Cherie Priest
+2249 Tom Brokaw
+2250 Elle Davis
+2251 Janet Chapman
+2252 R.A. Salvatore
+2253 Ivo de Wijs
+2254 L.A. Banks
+2255 Greg King
+2256 Sally Green
+2257 E.J. Whitmer
+2258 Kelly Gay
+2259 Laura Thalassa
+2260 Ian Bristow
+2261 George Packer
+2262 Kenneth Oppel
+2263 Dariusz Jemielniak
+2264 Yevhen Sverstiuk
+2265 Alexander Chee
+2266 Laini Taylor
+2267 Harris Connect
+2268 Donald Ray Pollock
+2269 Phil Foglio
+2270 Samantha Shannon
+2271 Grégoire Delacourt
+2272 George Pelecanos
+2273 S.J. Parris
+2274 Jennifer Clement
+2275 Jacky Colliss Harvey
+2276 Naomi Alderman
+2277 Danez Smith
+2278 Philippa Gregory
+2279 Ann Swinfen
+2280 Hanna Gill-Piątek
+2281 Beth Revis
+2282 Seth Fried
+2283 Katrine Engberg
+2284 Karen Lord
+2285 Rabih Alameddine
+2286 Kevin Belmonte
+2287 Alan Moore
+2288 Xyla Turner
+2289 Jason Hickel
+2290 Ruth Goodman
+2291 Michael  Rickard
+2292 Ruthanna Emrys
+2293 Christopher McDougall
+2294 ابن كثير
+2295 Mark Molesky
+2296 Emily Lloyd-Jones
+2297 C.J. Tudor
+2298 E. Lily Yu
+2299 Ініціативна група «Першого грудня»
+2300 Helen Fielding
+2301 Zachary Mason
+2302 Emerson W. Baker
+2303 Catherine Doyle
+2304 Eoin Colfer
+2305 Tatum Wilde
+2306 Judith Butler
+2307 Stefan Hertmans
+2308 Abby Geni
+2309 Elif Batuman
+2310 Carl Hoffman
+2311 Lindsey Davis
+2312 Lisa Halliday
+2313 Mark Forsyth
+2314 Caela Carter
+2315 Christine Feehan
+2316 Carolyn Arnold
+2317 Lucian Bane
+2318 Gene Luen Yang
+2319 Derek B. Miller
+2320 Gail Z. Martin
+2321 Richard Schickel
+2322 Hiromu Arakawa
+2323 J.A. White
+2324 Richard Morris
+2325 Karen J. Hasley
+2326 Chip Heath
+2327 Howard Jacobson
+2328 Satoshi Wagahara
+2329 rory macbeth
+2330 Любомир Белей
+2331 Don Paterson
+2332 Nicole Baart
+2333 Emily Fridlund
+2334 Rachel Khong
+2335 Sophia Bennett
+2336 Talal Asad
+2337 Noah Feldman
+2338 Ben Montgomery
+2339 Hyeonseo Lee
+2340 S.J. Parris
+2341 Rupi Kaur
+2342 Maaza Mengiste
+2343 Karin Tidbeck
+2344 Linn Ullmann
+2345 Albena Todorova
+2346 Chris Van Allsburg
+2347 Sarah Barrie
+2348 Ali Smith
+2349 Jean-Paul Didierlaurent
+2350 Cary Elwes
+2351 Whitney Bianca
+2352 Kate O'Hearn
+2353 Terry R. Hill
+2354 Lucian Bane
+2355 Gene Luen Yang
+2356 Veronica Roth
+2357 Stéphane Hessel
+2358 Alice Oseman
+2359 Gail Z. Martin
+2360 Abhijit V. Banerjee
+2361 Hiromu Arakawa
+2362 Peter Ackroyd
+2363 Ali McNamara
+2364 Joel Fuhrman
+2365 Yoko Ono
+2366 rory macbeth
+2367 Boris Nemtsov
+2368 David Mitchell
+2369 Tariq Ali
+2370 Shani Boianjiu
+2371 Philippa Gregory
+2372 Lang Leav
+2373 Chris Bohjalian
+2374 Naomi Benaron
+2375 Heather    Hansen
+2376 Morten A. Strøksnes
+2377 Rebecca Solnit
+2378 Julie Welch
+2379 Олга Кръстева
+2380 Arwen Elys Dayton
+2381 George R.R. Martin
+2382 Salman Rushdie
+2383 Maureen Johnson
+2384 Samantha Young
+2385 Anne Holt
+2386 Charles Stross
+2387 Mur Lafferty
+2388 Ellen Forney
+2389 K. Sherman
+2390 Ariel Teal Toombs
+2391 Dave Eggers
+2392 Genevieve Cogman
+2393 Rory Power
+2394 Hampton Sides
+2395 Haruki Murakami
+2396 Dietrich Bonhoeffer
+2397 Jhumpa Lahiri
+2398 Aleš Kot
+2399 Oyinkan Braithwaite
+2400 Billy Wrecks
+2401 Brandon Sanderson
+2402 Jennifer Lynn Barnes
+2403 Jeaniene Frost
+2404 Patricia Polacco
+2405 Tom Juergens
+2406 Nelson Mandela
+2407 Philippa Ballantine
+2408 Alex Hirsch
+2409 Hiroaki Kuromiya
+2410 R.K. Ryals
+2411 Keith Cronin
+2412 Jon McGregor
+2413 Vance N. Smith
+2414 Anna Lowenhaupt Tsing
+2415 Ben Macintyre
+2416 Kate Bowler
+2417 Martin  Walker
+2418 Michael V. Hayden
+2419 Katie Beers
+2420 C.W. Gortner
+2421 Jennifer Clement
+2422 Alison Weir
+2423 C.W. Gortner
+2424 Jessica Spotswood
+2425 Stephanie  Diaz
+2426 C.W. Gortner
+2427 Tim Ng Tvedt
+2428 Juliet Marillier
+2429 Elizabeth Edmondson
+2430 Silas House
+2431 Isabella Carter
+2432 Charles Stross
+2433 Diana   Forbes
+2434 Yusuf Al-Hajj Ahmad
+2435 Jason Fox
+2436 M.E. Thomas
+2437 Fred Stenson
+2438 Mats Strandberg
+2439 Kaira Rouda
+2440 Mitchell Zuckoff
+2441 Helen Hoang
+2442 Claudia Durastanti
+2443 Jory John
+2444 Sarah J. Maas
+2445 Courtney Allison Moulton
+2446 Stacy Eaton
+2447 Jonathan Trigell
+2448 Judith Armatta
+2449 Susan H. Shearouse
+2450 Noah Feldman
+2451 Philippa Ballantine
+2452 Emily Seife
+2453 Kerry James Evans
+2454 Eric Jager
+2455 Sophie Hannah
+2456 Deborah L. Rhode
+2457 David Lipsky
+2458 Traci Hunter Abramson
+2459 Alyson Noel
+2460 Jassy Mackenzie
+2461 Saul Black
+2462 Karen Hawkins
+2463 David McCullough
+2464 Johanna Sinisalo
+2465 Betty Halbreich
+2466 Taylor Jenkins Reid
+2467 Terry Fallis
+2468 Susan    Conley
+2469 Melissa Burke
+2470 David Henry Hwang
+2471 Tony Parsons
+2472 Jo Nesbø
+2473 Emma Allen
+2474 Stephanie Barron
+2475 Marissa Kennerson
+2476 Daisy Goodwin
+2477 Gary Corby
+2478 Samantha Hayes
+2479 Paula Mallea
+2480 Brian Minchin
+2481 Ted Kosmatka
+2482 Traci Hunter Abramson
+2483 Valerie Plame
+2484 Lynsay Sands
+2485 Kim Scott
+2486 Tatjana Ustinova
+2487 James Carroll
+2488 Bill O'Reilly
+2489 Jennifer L. Holm
+2490 Jane Smiley
+2491 Joan D. Vinge
+2492 E.D. Martin
+2493 Terry Eagleton
+2494 Anne Bishop
+2495 Alex Marwood
+2496 Chetan Bhagat
+2497 Jo Nesbø
+2498 Nick Bland
+2499 Jennifer E. Smith
+2500 Michael  Grant
+2501 Cassandra Clare
+2502 Gail Z. Martin
+2503 Ivan Doig
+2504 Ειρήνη Μαντά
+2505 Armistead Maupin
+2506 John Bemelmans Marciano
+2507 Mac Barnett
+2508 Maria Dahvana Headley
+2509 Elizabeth   Hunter
+2510 Jefferson Bethke
+2511 Dean Koontz
+2512 Lee Sandlin
+2513 Marina Fiorato
+2514 Daniel Schulman
+2515 Shannon Stoker
+2516 F. Scott Fitzgerald
+2517 Susan Higginbotham
+2518 Jamie Kornegay
+2519 Eric Carle
+2520 Kristen Ashley
+2521 D.E. Night
+2522 Mac Barnett
+2523 محمد عبد الرحمن العريفي
+2524 Leanda de Lisle
+2525 James  Brandon
+2526 Rena Barron
+2527 Rick Reilly
+2528 Bryan Burrough
+2529 Cara Hunter
+2530 Beth Costanzo
+2531 Mick Herron
+2532 Nabeel Qureshi
+2533 Jonathan Schneer
+2534 Daniel Suarez
+2535 Dieter F. Uchtdorf
+2536 Persia Walker
+2537 Stephanie Laurens
+2538 Annette de Vries
+2539 Carrie Vaughn
+2540 Christopher Breu
+2541 Eilat Negev
+2542 Anthony Bourdain
+2543 Pittacus Lore
+2544 Eugene Vodolazkin
+2545 Karen   White
+2546 Ariel Schrag
+2547 Karen Kingsbury
+2548 Sherrilyn Kenyon
+2549 Jonathan  Dunne
+2550 Derek Landy
+2551 Vincent Lam
+2552 Lemony Snicket
+2553 Sarah Lotz
+2554 Rebecca  James
+2555 Nancy Campbell Allen
+2556 Angie Sage
+2557 Anna Sugden
+2558 John Blandly
+2559 Jon Gertner
+2560 Любомир Гузар
+2561 Noelle  Adams
+2562 Jill Lepore
+2563 Emma Sky
+2564 Steven Tyler
+2565 Amy Bloom
+2566 Martha Grimes
+2567 Kristin Hannah
+2568 Princess Michael of Kent
+2569 Lara S. Ormiston
+2570 Sarah Schulman
+2571 Sariah Wilson
+2572 Carrie Turansky
+2573 Andrew Mulligan
+2574 Daniel Alexander Brown
+2575 Ruth Brooks
+2576 Charlie Mackesy
+2577 Sarah Jean Horwitz
+2578 Cara Hunter
+2579 Elizabeth Strout
+2580 Ward Farnsworth
+2581 Barak Kushner
+2582 Courtney Peppernell
+2583 Heather   Morris
+2584 M.T. Edvardsson
+2585 Tade Thompson
+2586 Robert Garland
+2587 Fatma Aydemir
+2588 Karma Brown
+2589 Max Brallier
+2590 A.M. Robinson
+2591 Caroline Preston
+2592 John Blandly
+2593 Андрій Ворон
+2594 Alisa Woods
+2595 Ann Packer
+2596 Sharyn McCrumb
+2597 Astrid Lindgren
+2598 Richard Grusin
+2599 Mitchell Zuckoff
+2600 Chester Nez
+2601 Kelley Armstrong
+2602 Dinah Jefferies
+2603 Joshua Palmatier
+2604 Maurice Sendak
+2605 Katherine Reay
+2606 Adam Roberts
+2607 Sonali Deraniyagala
+2608 Shelley Davidow
+2609 Tim Powers
+2610 Glen Hirshberg
+2611 Peter H Rhys Evans
+2612 محمد عبد الرحمن العريفي
+2613 Roger Daltrey
+2614 Joe Hill
+2615 J.Y.  Yang
+2616 Elle Kennedy
+2617 Niall Ferguson
+2618 Scholastique Mukasonga
+2619 Greer Hendricks
+2620 Jimmy Carter
+2621 Sarah J. Maas
+2622 Nina Perez
+2623 Jennifer Niven
+2624 Roddy Doyle
+2625 Charles Foran
+2626 David R. Dow
+2627 Maria V. Snyder
+2628 Joff Winterhart
+2629 Dean Young
+2630 Josephine Angelini
+2631 Lily Hoang
+2632 Michelle Madow
+2633 Carly Phillips
+2634 Esther Gerritsen
+2635 Carrie Vaughn
+2636 Tom Lanoye
+2637 Kat Richardson
+2638 Lauren Belfer
+2639 Michael Thomas Ford
+2640 Pip Ballantine
+2641 Catherine Ryan Hyde
+2642 Tom  Taylor
+2643 Karen Kingsbury
+2644 Sherrilyn Kenyon
+2645 Nicole Gozdek
+2646 Ella Griffin
+2647 Tsugumi Ohba
+2648 Matthew Pearl
+2649 Jenny Colgan
+2650 Aurora Rose Reynolds
+2651 Erin Hunter
+2652 John Blandly
+2653 Andrew Sean Greer
+2654 Hari Kunzru
+2655 Vasyl Slapchuk
+2656 Chelle Bliss
+2657 Carol  Anderson
+2658 Morgan Rhodes
+2659 Naomi Klein
+2660 Lori Benton
+2661 Dean Wesley Smith
+2662 Tove Jansson
+2663 Nicholas Culpeper
+2664 Austin Kleon
+2665 Ron  Miner
+2666 Abdul Malik Mujahid
+2667 Eric Ripert
+2668 Shari Lapena
+2669 Laura Lippman
+2670 Robert G. Hoyland
+2671 Boubacar Boris Diop
+2672 Elfriede Jelinek
+2673 Toshikazu Kawaguchi
+2674 Adam Rubin
+2675 Amie Kaufman
+2676 Alice Waters
+2677 James Robertson
+2678 Hervé Bouchard
+2679 Scott Prussing
+2680 Julie Kagawa
+2681 David   Epstein
+2682 Drew Karpyshyn
+2683 Jeffrey Lent
+2684 Hilary Davidson
+2685 Kat Richardson
+2686 C.W. Gortner
+2687 Margaret Noodin
+2688 Pip Ballantine
+2689 Ally Carter
+2690 Nomi Eve
+2691 Frances Hardinge
+2692 Janet  Barrett
+2693 Karen Kingsbury
+2694 Debbie Macomber
+2695 Ezra Greenspan
+2696 Carrie Ryan
+2697 Rachel  Elliott
+2698 Cynthia D'Aprix Sweeney
+2699 Fiona Wood
+2700 Maya Banks
+2701 Danae Sioziou
+2702 Tessa Hadley
+2703 Грицько Чубай
+2704 Chelle Bliss
+2705 Meik Wiking
+2706 David   Hunt
+2707 Maria Dahvana Headley
+2708 Soham Patel
+2709 Ben Brooks
+2710 Charles Martin
+2711 Crystal Watanabe
+2712 Santa Montefiore
+2713 Sarah Woodbury
+2714 Joshua Bloom
+2715 Emily  Chang
+2716 Linnea Hartsuyker
+2717 Shirley  Dickson
+2718 Martha Wells
+2719 Anna Halabi
+2720 John Shirley
+2721 Meena Kandasamy
+2722 Talia Hibbert
+2723 Adam Rubin
+2724 Tom    Fletcher
+2725 Sarah  Porter
+2726 Solomon Abramovich
+2727 Laryssa Wirstiuk
+2728 Sherrilyn Kenyon
+2729 Kevin Brooks
+2730 Natasha Preston
+2731 Janet Chapman
+2732 Milena Michiko Flašar
+2733 Kat Richardson
+2734 Jeanne Marie Laskas
+2735 Steven F. Havill
+2736 Eric Shanower
+2737 Ally Carter
+2738 David Rhodes
+2739 Davy Rothbart
+2740 Karen Kingsbury
+2741 Sally  Christie
+2742 Geoffrey Kabaservice
+2743 Marian Keyes
+2744 Rachel Aaron
+2745 Plum Johnson
+2746 Frank Tayell
+2747 Debra Dunbar
+2748 Lidia Matticchio Bastianich
+2749 Harlan Coben
+2750 Alexandra Bracken
+2751 John Blandly
+2752 Jenna Miscavige Hill
+2753 Lina Kostenko
+2754 C.M. Owens
+2755 Dalai Lama XIV
+2756 Wael Ghonim
+2757 Patricia Bell-Scott
+2758 Kelly Rimmer
+2759 Edward M. Lerner
+2760 Katherine Reay
+2761 Leonora Carrington
+2762 Walter Isaacson
+2763 Παυλίνα Μάρβιν
+2764 Wendy S. Swore
+2765 Darussalam
+2766 Ben Ryder Howe
+2767 Rachael Lippincott
+2768 Zane Kotker
+2769 Ryan Kenealy
+2770 Jayne Castle
+2771 Rowan Jacobsen
+2772 Richard Grusin
+2773 Nick Lake
+2774 Stephen Hunt
+2775 Khaled Mattawa
+2776 Seth Casteel
+2777 Joe Hill
+2778 Ijeoma Oluo
+2779 Ian Rankin
+2780 Jane Alison
+2781 Christina Lauren
+2782 Ryan T.  Higgins
+2783 Rebecca Makkai
+2784 Holly Black
+2785 J.R. Ward
+2786 Saloma Miller Furlong
+2787 Christopher Farnsworth
+2788 Monica McCarty
+2789 Karen Green
+2790 Gena Showalter
+2791 Daniel Kalla
+2792 Cinda Williams Chima
+2793 Carrie La Seur
+2794 Jesse Eisenberg
+2795 Scott Weidensaul
+2796 Reki Kawahara
+2797 Helen      Brown
+2798 David  Arnold
+2799 A.J. Hartley
+2800 Theresa Weir
+2801 Jamie Schultz
+2802 Lemony Snicket
+2803 Kimberly Kincaid
+2804 Alexander        Weinstein
+2805 John Blandly
+2806 Annie Nicholas
+2807 David    Joy
+2808 Charles Todd
+2809 David Pogue
+2810 John M. Marzluff
+2811 Rachel Vincent
+2812 Catherine Ryan Hyde
+2813 Pip Drysdale
+2814 Dan Rix
+2815 Jacqueline Harvey
+2816 Ross Gay
+2817 Pete Buttigieg
+2818 Kevin Kwan
+2819 Adelle Waldman
+2820 Θάνος Γώγος
+2821 Mariel Hemingway
+2822 Kazuo Ishiguro
+2823 Benjamin Dreyer
+2824 George A. Akerlof
+2825 Jen Cullerton Johnson
+2826 Emily A. Duncan
+2827 Timothy Zahn
+2828 J.D. Robb
+2829 Curtis Craddock
+2830 Michael Robotham
+2831 Hiroko Oyamada
+2832 Mo Willems
+2833 Rainbow Rowell
+2834 Betty White
+2835 Mayandree Michel
+2836 Ann Napolitano
+2837 Nikolai Grozni
+2838 Drew Magary
+2839 Eric Litwin
+2840 Aimee Carter
+2841 Helen DeWitt
+2842 Kate Atkinson
+2843 Suzanne Enoch
+2844 Jayne Ann Krentz
+2845 T. Greenwood
+2846 Tupelo Hassman
+2847 Merijn de Boer
+2848 Jules Bennett
+2849 David Harvey
+2850 Jaida Jones
+2851 Mindee Arnett
+2852 Rob Dunn
+2853 Rebecca  James
+2854 Jamie Schultz
+2855 James Patterson
+2856 Jenn McKinlay
+2857 John Blandly
+2858 Lara Adrian
+2859 J.T. Ellison
+2860 Michael Weiss
+2861 Kelley Armstrong
+2862 Tsugumi Ohba
+2863 Tyrell Johnson
+2864 Michelle Muckley
+2865 Julie Cantrell
+2866 Lydia Davis
+2867 Jacqueline Harvey
+2868 Lynda Cohen Loigman
+2869 Lindsey Barraclough
+2870 William Easterly
+2871 Lisa See
+2872 Kyle Mills
+2873 Elizabeth Schaefer
+2874 Claire G. Coleman
+2875 Daniel Silva
+2876 Os Guinness
+2877 Agustina Bazterrica
+2878 Bruce Pascoe
+2879 Jim Harrison
+2880 Christy Lefteri
+2881 Cynthia Ozick
+2882 Benjamin Percy
+2883 Will Davis
+2884 Cecily von Ziegesar
+2885 Arundhati Roy
+2886 Stephanie Laurens
+2887 Gary Schanbacher
+2888 Jonathan Maberry
+2889 Amy Greene
+2890 Jamie McGuire
+2891 Tarquin Blake
+2892 Garrard Conley
+2893 Michael J. Sullivan
+2894 Sinclair McKay
+2895 Jamie Schultz
+2896 Adam Mansbach
+2897 Sarah Zettel
+2898 Jay Baron Nicorvo
+2899 Sawyer Bennett
+2900 John Blandly
+2901 Peter Robinson
+2902 Elizabeth  George
+2903 Kelley Armstrong
+2904 Kristan Higgins
+2905 Amy Plum
+2906 Vanessa Diffenbaugh
+2907 Christina Kilbourne
+2908 Jodi Taylor
+2909 Claude McKay
+2910 Hanif Abdurraqib
+2911 Tamsyn Murray
+2912 J. Anderson Coats
+2913 David Neiwert
+2914 Johann Hari
+2915 Bill O'Reilly
+2916 Marie Brennan
+2917 Roma Tearne
+2918 Tom Burford
+2919 James S.A. Corey
+2920 Staceyann Chin
+2921 Owen King
+2922 Charlie   Wood
+2923 Lissa Price
+2924 Gena Showalter
+2925 Karen Kondazian
+2926 Jonathan Maberry
+2927 Chris Bohjalian
+2928 Tracy Anne Warren
+2929 Tarquin Blake
+2930 Mal Peet
+2931 Gail Anderson-Dargatz
+2932 Tim Green
+2933 Robin Hobb
+2934 Michael J. Sullivan
+2935 Diane Ott Whealy
+2936 Cassandra Clare
+2937 Keri Arthur
+2938 Sam Kean
+2939 J. Bernlef
+2940 Kristen Ashley
+2941 Richard Crompton
+2942 Michael J. Sullivan
+2943 Ann Hood
+2944 Keri Arthur
+2945 Κωνσταντίνος Κέλλης
+2946 Krista Davis
+2947 Pierre Lemaitre
+2948 John Blandly
+2949 Spencer Quinn
+2950 Tiffany D. Jackson
+2951 Joanna Schaffhausen
+2952 E.C. Myers
+2953 Monica Wood
+2954 Jodi Taylor
+2955 Eileen Myles
+2956 Alan Stern
+2957 J.A. Jance
+2958 Alexandra Minna Stern
+2959 Neal Shusterman
+2960 Wendy   Walker
+2961 Stephen King
+2962 J.D. Robb
+2963 Indra Das
+2964 Djaimilia Pereira de Almeida
+2965 Carrie Jones
+2966 Brooke Gladstone
+2967 Jonathan Lethem
+2968 Catherine Chung
+2969 D. Lawrence-Young
+2970 Paul Bailey
+2971 Alyson Noel
+2972 Jonathan Maberry
+2973 Peter Watson
+2974 Paul Andrew Hutton
+2975 Anna Quindlen
+2976 Linda Howard
+2977 Rebecca Schiff
+2978 Judith Rock
+2979 Philip Dröge
+2980 Chris Carter
+2981 Rick Mofina
+2982 Steve Hockensmith
+2983 K.V. Johansen
+2984 Michael J. Sullivan
+2985 Jennifer Haigh
+2986 Kasie West
+2987 Keri Arthur
+2988 Περικλής Μποζινάκης
+2989 Krista Davis
+2990 Lucy Dillon
+2991 John Blandly
+2992 Cat Adams
+2993 Francesca Hornak
+2994 Emily McKay
+2995 Dan Caddy
+2996 Han Kang
+2997 Krish Kandiah
+2998 Eileen Myles
+2999 J.D. Robb
+3000 Lindy West
+3001 Patrick S. Tomlinson
+3002 Matt Haig
+3003 Vegas Tenold
+3004 Donatella Di Pietrantonio
+3005 Stephen King
+3006 Hao Jingfang
+3007 S.T. Abby
+3008 James S.A. Corey
+3009 陳翠蓮
+3010 Helen Hoang
+3011 Anna Funder
+3012 D.T. Max
+3013 Ken Scholes
+3014 Rubén Castañeda
+3015 Richard Grusin
+3016 Jamil Ahmad
+3017 Gayle Forman
+3018 Mimi Khalvati
+3019 Yanis Varoufakis
+3020 Alex Prud'Homme
+3021 Barbara Oakley
+3022 Renée Ahdieh
+3023 Stephen King
+3024 Ian Stewart
+3025 Martha Batalha
+3026 Karen Mahoney
+3027 Dan Rhodes
+3028 Aprilynne Pike
+3029 Rajesh Parameswaran
+3030 Steve Feasey
+3031 Tessa Dare
+3032 Kader Abdolah
+3033 David      Bell
+3034 Sheri  Fink
+3035 Keri Arthur
+3036 Carly Phillips
+3037 Sawyer Bennett
+3038 Douglas Murray
+3039 Mary Oliver
+3040 Carmen Gillespie
+3041 Melissa Darnell
+3042 Richard Grusin
+3043 Richard  Fifield
+3044 Emma Clayton
+3045 Joy Fielding
+3046 Amity Gaige
+3047 Taste of Home
+3048 Herman Koch
+3049 Sarah Remy
+3050 Kevin J. Anderson
+3051 Zack Whedon
+3052 Dan   Harris
+3053 Keri Arthur
+3054 Jenny Colgan
+3055 Jami Davenport
+3056 Alexander Gordon Smith
+3057 Kelli Estes
+3058 Woody Guthrie
+3059 Violet Kupersmith
+3060 Sietske de Boer
+3061 Patricia  Park
+3062 David Harvey
+3063 Judith Flanders
+3064 Paul Adam
+3065 Keri Arthur
+3066 Anna Dean
+3067 Jenika Snow
+3068 Robert Coover
+3069 B. Sting
+3070 Mandy Wiener
+3071 Jessica Dettmann
+3072 Russell  James
+3073 Katherine Webb
+3074 Gavin Edwards
+3075 Ida B. Wells-Barnett
+3076 Russell  Powell
+3077 Emily Barr
+3078 Γιάννης Στίγκας
+3079 Ziba Mir-Hosseini
+3080 Kerry Alan Denney
+3081 Kurt Andersen
+3082 Peter  Swanson
+3083 Jennifer L. Armentrout
+3084 Jeff Guinn
+3085 Jen  Wilde
+3086 Joni Rodgers
+3087 Jonathan Buckley
+3088 Tom Pollock
+3089 Jeannette Walls
+3090 Julie Berry
+3091 Kristina McMorris
+3092 Olga Grjasnowa
+3093 Steven Adolf
+3094 Linwood Barclay
+3095 Linda Lael Miller
+3096 Marcus Samuelsson
+3097 Yelena Akhtiorskaya
+3098 Naomi Novik
+3099 Melissa F. Olson
+3100 Ελευθέριος Κεραμίδας
+3101 Ali Parker
+3102 B. Sting
+3103 Thomas Mollett
+3104 Seb Doubinsky
+3105 Rob Neyer
+3106 Barbara Claypole White
+3107 Bradley Ernst
+3108 Chris Hayes
+3109 Nick Bunker
+3110 Michael Robotham
+3111 Téa Obreht
+3112 Rabab Abdulhadi
+3113 John McCain
+3114 Sarah MacLean
+3115 Jennifer L. Armentrout
+3116 Ron Rash
+3117 Meljean Brook
+3118 Charles Bracelen Flood
+3119 Annie Weatherwax
+3120 Kelly McCullough
+3121 Charles Belfoure
+3122 Julia Glass
+3123 Greta Riemersma
+3124 Kristan Higgins
+3125 Gordon Korman
+3126 James Runcie
+3127 Colin Atrophy Hagendorf
+3128 Mitch Albom
+3129 Melissa F. Olson
+3130 Tsugumi Ohba
+3131 Lynn Messina
+3132 Aurora Rose Reynolds
+3133 B. Sting
+3134 Rumi
+3135 Kate Furnivall
+3136 Jeff Burk
+3137 Julie Kibler
+3138 Chris Hammer
+3139 Martha Wells
+3140 Amal Awad
+3141 J.D. Robb
+3142 Alan Glynn
+3143 Jason Reynolds
+3144 David Frum
+3145 S.T. Abby
+3146 Lucia Berlin
+3147 Jennifer Kathleen Gibbons
+3148 Phillipa Bornikova
+3149 Amity Shlaes
+3150 William Rosen
+3151 T. Greenwood
+3152 Laura Resau
+3153 Marianne Thys
+3154 Kevin J. Anderson
+3155 Melissa F. Olson
+3156 Mary Jane Hathaway
+3157 Mary     Smith
+3158 Eva Stachniak
+3159 Kathleen Burkinshaw
+3160 Sharman Apt Russell
+3161 Jonathan Morris
+3162 Kate DiCamillo
+3163 Brian K. Vaughan
+3164 Marty Makary
+3165 Ruth Emmie Lang
+3166 Dean Koontz
+3167 Jonathan Maberry
+3168 Kennedy Ryan
+3169 Austin Kleon
+3170 Kerri Maniscalco
+3171 Dan Carlin
+3172 Elle  Spencer
+3173 Jennifer Kathleen Gibbons
+3174 Jessica Sorensen
+3175 Brigid Kemmerer
+3176 P.J. Tracy
+3177 James Patterson
+3178 Kate Furnivall
+3179 Dana Stabenow
+3180 Khaled Khalifa
+3181 James Abel
+3182 Melissa F. Olson
+3183 Tsugumi Ohba
+3184 Catherine Lloyd
+3185 Aurora Rose Reynolds
+3186 J.C. Nelson
+3187 Amethyst Marie
+3188 Aurora Rose Reynolds
+3189 Devin Murphy
+3190 Pablo Hidalgo
+3191 Roisin McAuley
+3192 Ilsa Madden-Mills
+3193 Martin Luther King Jr.
+3194 Robyn Maynard
+3195 Michelle West
+3196 J.R. Moehringer
+3197 Thomas H. Cook
+3198 Henri Cole
+3199 Silvina Ocampo
+3200 Gena Showalter
+3201 Renate Dorrestein
+3202 Cindy Vine
+3203 Carolyn Lee Adams
+3204 Helen Rappaport
+3205 Deanna Raybourn
+3206 John Blandly
+3207 John Banks
+3208 Ian Doescher
+3209 Christopher Farnsworth
+3210 Tucker Carlson
+3211 Sophie Kinsella
+3212 Jojo Moyes
+3213 Kerri Maniscalco
+3214 Andrzej Sapkowski
+3215 Sabaa Tahir
+3216 Brigid Kemmerer
+3217 Anne Carson
+3218 Melissa Pritchard
+3219 Neal Shusterman
+3220 Ellen Marie Wiseman
+3221 Gena Showalter
+3222 René F.W. Diekstra
+3223 Cathie Borrie
+3224 G.M. Ford
+3225 Frédérique Molay
+3226 Stanley Michael Hurd
+3227 Kathleen Ernst
+3228 Sharon Guskin
+3229 John Blandly
+3230 Ian Doescher
+3231 John Sandford
+3232 Dinah Jefferies
+3233 L.A. Meyer
+3234 William G. Baker
+3235 Lin-Manuel Miranda
+3236 Ben Folds
+3237 Cormac McCarthy
+3238 Steven Levitsky
+3239 Tom Baker
+3240 Jeff VanderMeer
+3241 Kerri Maniscalco
+3242 M.J. Hearle
+3243 Mathew Burrows
+3244 Lucinda Riley
+3245 Gena Showalter
+3246 Jeroen Meus
+3247 Marc Aubin
+3248 Ali Hosseini
+3249 A.F. Moritz
+3250 Carol Goodman
+3251 Gena Showalter
+3252 Jeroen Meus
+3253 Mark Crilley
+3254 Deanna Raybourn
+3255 Rachel Gibson
+3256 John Blandly
+3257 Toni Morrison
+3258 Martin  Walker
+3259 L.A. Meyer
+3260 Frederik Pohl
+3261 Garth Greenwell
+3262 Caroline Van Hemert
+3263 Bernie Su
+3264 Kristen Callihan
+3265 K.D. McEntire
+3266 Anthony Cartwright
+3267 Lisa Scottoline
+3268 Jodi Lew-Smith
+3269 Deanna Raybourn
+3270 Rachel Gibson
+3271 John Blandly
+3272 Wes  Moore
+3273 Sandra       Brown
+3274 Charles Wright
+3275 Karen   White
+3276 Daniel H. Wilson
+3277 Brittany Cavallaro
+3278 Jacqueline Woodson
+3279 Jeroen Meus
+3280 Γιάννης Στίγκας
+3281 Gautam Raghavan
+3282 Jamie Shaw
+3283 Richard Russo
+3284 Sawyer Bennett
+3285 John Blandly
+3286 Lindsay Daigle
+3287 Brett Garcia Rose
+3288 Karin Slaughter
+3289 Ίδρυμα Ρόζα Λούξεμπουργκ
+3290 Twyla Tharp
+3291 Sarah Weinman
+3292 Peter Gadol
+3293 Thomas McNamee
+3294 Karen Gammons
+3295 Graham Swift
+3296 Alison Espach
+3297 Belinda Alexandra
+3298 Sophie Littlefield
+3299 Joe Meno
+3300 Alexandra Oliva
+3301 Tsugumi Ohba
+3302 Alyssa Maxwell
+3303 Laurie R. King
+3304 Sawyer Bennett
+3305 Chamalee Weeratunge
+3306 John Blair Gamber
+3307 Susan  Kaye
+3308 Deirdre Martin
+3309 Dayle Furlong
+3310 Tao Lin
+3311 Sarita Mandanna
+3312 Ali McNamara
+3313 MaryLu Tyndall
+3314 Karin Slaughter
+3315 Henri Cole
+3316 Ηφαιστίων Χριστόπουλος
+3317 Conrad Black
+3318 Kent Alexander
+3319 Anna Quindlen
+3320 John Blandly
+3321 Ευθυμία Δεσποτάκη
+3322 Mikey Cody Apollo
+3323 Elizabeth McCracken
+3324 Cassie Beasley
+3325 Donald L. Robertson
+3326 Colleen Hoover
+3327 Elisa Shua Dusapin
+3328 Saundra Mitchell
+3329 William T. Vollmann
+3330 Pam Jenoff
+3331 Emily Brightwell
+3332 John Blandly
+3333 Amy Engel
+3334 Andrew Cowan
+3335 Karin Slaughter
+3336 Τέτη Θεοδώρου
+3337 Yvonne Navarro
+3338 Brittany Cavallaro
+3339 Eva Marie Everson
+3340 Nnedi Okorafor
+3341 Molly Idle
+3342 Leah Cypess
+3343 Toni Morrison
+3344 Stephanie Burgis
+3345 Shimoku Kio
+3346 Ross Raisin
+3347 Karin Slaughter
+3348 Pema Chödrön
+3349 Justin Spring
+3350 Greer Macallister
+3351 Leslie Trammell
+3352 Marissa Doyle
+3353 Jonathan  Dee
+3354 Kathy Hepinstall
+3355 Sarah Gailey
+3356 J.N. Chaney
+3357 Τέτη Θεοδώρου
+3358 Michelle   Cooper
+3359 Donal Ryan
+3360 Karin Slaughter
+3361 China Miéville
+3362 Thomas Graham
+3363 Amelia Hepworth
+3364 Shimoku Kio
+3365 Regina Scott
+3366 John Blandly
+3367 Ryan  Clark
+3368 Dan Rhodes
+3369 America Ferrera
+3370 Steve Lohr
+3371 Deanna Raybourn
+3372 Rhys Bowen
+3373 Karin Slaughter
+3374 Curtis White
+3375 Nnedi Okorafor
+3376 J.K. Rowling
+3377 Suzanne Collins
+3378 J.K. Rowling
+3379 J.K. Rowling
+3380 J.K. Rowling
+3381 Markus Zusak
+3382 Audrey Niffenegger
+3383 Khaled Hosseini
+3384 Kathryn Stockett
+3385 Khaled Hosseini
+3386 Suzanne Collins
+3387 Stephenie Meyer
+3388 Sara Gruen
+3389 Stieg Larsson
+3390 Yann Martel
+3391 Dan Brown
+3392 Alice Sebold
+3393 Cormac McCarthy
+3394 Mark Haddon
+3395 Sue Monk Kidd
+3396 Jeffrey Eugenides
+3397 J.K. Rowling
+3398 Rick Riordan
+3399 Jodi Picoult
+3400 Jeannette Walls
+3401 Stephenie Meyer
+3402 Ian McEwan
+3403 Stephenie Meyer
+3404 Carlos Ruiz Zafón
+3405 Dan Brown
+3406 Neil Gaiman
+3407 Stephenie Meyer
+3408 Cassandra Clare
+3409 Stephenie Meyer
+3410 Stieg Larsson
+3411 Mitch Albom
+3412 Jonathan Safran Foer
+3413 John Green
+3414 Kazuo Ishiguro
+3415 Mary Ann Shaffer
+3416 Elizabeth Gilbert
+3417 Patrick Rothfuss
+3418 Diane Setterfield
+3419 Ann Patchett
+3420 Michael Chabon
+3421 Erik Larson
+3422 Christopher Paolini
+3423 Philippa Gregory
+3424 David Sedaris
+3425 George R.R. Martin
+3426 Lisa See
+3427 Stieg Larsson
+3428 Elizabeth Kostova
+3429 Scott Westerfeld
+3430 David Mitchell
+3431 Richelle Mead
+3432 Neil Gaiman
+3433 Neil Gaiman
+3434 Susanna Clarke
+3435 Steven D. Levitt
+3436 Haruki Murakami
+3437 Jodi Picoult
+3438 Jonathan Safran Foer
+3439 Greg Mortenson
+3440 Randy Pausch
+3441 Kim Edwards
+3442 Jhumpa Lahiri
+3443 Junot Díaz
+3444 Marjane Satrapi
+3445 Garth Stein
+3446 Margaret Atwood
+3447 Jonathan Franzen
+3448 Cormac McCarthy
+3449 Philip Pullman
+3450 Augusten Burroughs
+3451 Ken Follett
+3452 Margaret Atwood
+3453 Dave Eggers
+3454 William Paul Young
+3455 Michael Pollan
+3456 Nicole Krauss
+3457 Abraham   Verghese
+3458 Tatiana de Rosnay
+3459 Laura Hillenbrand
+3460 Jodi Picoult
+3461 Gregory David Roberts
+3462 Mark Z. Danielewski
+3463 Richard Russo
+3464 David Wroblewski
+3465 Zadie Smith
+3466 Libba Bray
+3467 Malcolm Gladwell
+3468 Rick Riordan
+3469 Eric Schlosser
+3470 Neil Gaiman
+3471 David McCullough
+3472 Geraldine Brooks
+3473 Rick Riordan
+3474 Isabel Allende
+3475 Dave Eggers
+3476 Barack Obama
+3477 Leif Enger
+3478 Cornelia Funke
+3479 Cassandra Clare
+3480 Cassandra Clare
+3481 Jon Krakauer
+3482 Barbara Kingsolver
+3483 Max Brooks
+3484 Rick Riordan
+3485 John Boyne
+3486 Rick Riordan
+3487 Irène Némirovsky
+3488 Bill Bryson
+3489 Lemony Snicket
+3490 Marilynne Robinson
+3491 Jodi Picoult
+3492 Kristin Cashore
+3493 Christopher Moore
+3494 Stephen King
+3495 John Connolly
+3496 Lionel Shriver
+3497 Richelle Mead
+3498 George R.R. Martin
+3499 Dennis Lehane
+3500 Dan Brown
+3501 Eoin Colfer
+3502 John Grogan
+3503 Richelle Mead
+3504 Muriel Barbery
+3505 Brian Selznick
+3506 Barbara Kingsolver
+3507 J.K. Rowling
+3508 Jasper Fforde
+3509 Kate DiCamillo
+3510 Ki Longfellow
+3511 Azar Nafisi
+3512 Richelle Mead
+3513 Sophie Kinsella
+3514 Lisa Genova
+3515 Edward P. Jones
+3516 Michael Chabon
+3517 James Dashner
+3518 Geraldine Brooks
+3519 Sherman Alexie
+3520 Barbara Ehrenreich
+3521 Chris Cleave
+3522 Aravind Adiga
+3523 James Frey
+3524 Jeanne DuPrau
+3525 Elizabeth Strout
+3526 Joan Didion
+3527 Charlaine Harris
+3528 Jay Asher
+3529 Maggie Stiefvater
+3530 Lynne Truss
+3531 Marjane Satrapi
+3532 Hilary Mantel
+3533 Amy Tan
+3534 Alison Bechdel
+3535 David Sedaris
+3536 Becca Fitzpatrick
+3537 Kate Atkinson
+3538 P.C. Cast
+3539 Malcolm Gladwell
+3540 Ishmael Beah
+3541 David McCullough
+3542 Chimamanda Ngozi Adichie
+3543 Mary Roach
+3544 Brandon Sanderson
+3545 Tana French
+3546 Christopher Moore
+3547 Christopher Paolini
+3548 Marisha Pessl
+3549 Jenna Blum
+3550 Cornelia Funke
+3551 Diana Gabaldon
+3552 Alan Brennert
+3553 Andrew Davidson
+3554 Michel Faber
+3555 Christopher Paolini
+3556 Malcolm Gladwell
+3557 Kate Morton
+3558 Lemony Snicket
+3559 Chuck Palahniuk
+3560 Cecelia Ahern
+3561 Jim Butcher
+3562 Sarah Waters
+3563 Jhumpa Lahiri
+3564 Holly Black
+3565 J.R. Ward
+3566 Sarah Dessen
+3567 Stephen King
+3568 Patricia Briggs
+3569 Richard Dawkins
+3570 Lemony Snicket
+3571 Lawrence Hill
+3572 Philip Roth
+3573 Ian McEwan
+3574 Diana Gabaldon
+3575 Philip Pullman
+3576 John Green
+3577 Lalita Tademy
+3578 Kate DiCamillo
+3579 Maria V. Snyder
+3580 Zadie Smith
+3581 Mo Willems
+3582 Michael Connelly
+3583 Lemony Snicket
+3584 Naomi Klein
+3585 Tracy Kidder
+3586 Doris Kearns Goodwin
+3587 Roberto Bolaño
+3588 P.C. Cast
+3589 Terry Pratchett
+3590 P.C. Cast
+3591 Scott Westerfeld
+3592 Terry Pratchett
+3593 Julia Glass
+3594 Ann Brashares
+3595 Charlaine Harris
+3596 Margaret Atwood
+3597 Kate Morton
+3598 China Miéville
+3599 Haruki Murakami
+3600 Jerry Spinelli
+3601 Jennifer Weiner
+3602 Suzanne Collins
+3603 Ayaan Hirsi Ali
+3604 Dean Koontz
+3605 P.C. Cast
+3606 Kelley Armstrong
+3607 Ellen Hopkins
+3608 Jacqueline Carey
+3609 David Mitchell
+3610 Roberto Bolaño
+3611 Markus Zusak
+3612 Sarah Addison Allen
+3613 Jamie Ford
+3614 Jon   Stewart
+3615 Jared Diamond
+3616 Nathaniel Philbrick
+3617 Kate DiCamillo
+3618 Colum McCann
+3619 Lemony Snicket
+3620 Stephen King
+3621 Tom Perrotta
+3622 David Nicholls
+3623 Lemony Snicket
+3624 Myla Goldberg
+3625 P.C. Cast
+3626 Christina Schwarz
+3627 David Sedaris
+3628 Dan Brown
+3629 Ki Longfellow
+3630 Sarah Vowell
+3631 Eve Ensler
+3632 Bill Bryson
+3633 Michael   Lewis
+3634 Nancy Farmer
+3635 Lemony Snicket
+3636 Diana Gabaldon
+3637 Brandon Mull
+3638 Audrey Niffenegger
+3639 Dave Cullen
+3640 Jodi Picoult
+3641 J.R. Ward
+3642 Jodi Picoult
+3643 Curtis Sittenfeld
+3644 Gayle Forman
+3645 Alan Bradley
+3646 Sarah Dessen
+3647 Kami Garcia
+3648 Åsne Seierstad
+3649 Charlaine Harris
+3650 Jodi Picoult
+3651 Janet Evanovich
+3652 Neal Shusterman
+3653 Lisa See
+3654 Michael Scott
+3655 Lemony Snicket
+3656 Alexandra Fuller
+3657 Mark Dunn
+3658 Dean Koontz
+3659 Barbara Kingsolver
+3660 Charlaine Harris
+3661 Stephen King
+3662 Jennifer Weiner
+3663 Lauren Kate
+3664 Dave Eggers
+3665 Brandon Sanderson
+3666 Jonathan Lethem
+3667 Keith Donohue
+3668 Amy Tan
+3669 Alan Weisman
+3670 Scott Westerfeld
+3671 Alice Munro
+3672 Nicholas Sparks
+3673 Donna Tartt
+3674 Ron Hall
+3675 Jonathan Stroud
+3676 Alan Hollinghurst
+3677 Carrie Ryan
+3678 Janet Evanovich
+3679 Neal Stephenson
+3680 Maria V. Snyder
+3681 Shannon Hale
+3682 Eoin Colfer
+3683 Karen Marie Moning
+3684 Umberto Eco
+3685 Joanne Harris
+3686 Tamora Pierce
+3687 Jonathan Stroud
+3688 Nicholas Sparks
+3689 Eoin Colfer
+3690 Patricia Briggs
+3691 Kennilworthy Whisp
+3692 W.G. Sebald
+3693 Sarah Dessen
+3694 Garth Nix
+3695 Philip Roth
+3696 Cassandra Clare
+3697 Kent Haruf
+3698 William Gibson
+3699 Toni Morrison
+3700 Julian Barnes
+3701 Lisa See
+3702 Jim Butcher
+3703 Ally Carter
+3704 Kiran Desai
+3705 Holly Black
+3706 Richelle Mead
+3707 Emma McLaughlin
+3708 Sarah Dessen
+3709 J.R. Ward
+3710 Daniel Mendelsohn
+3711 Emily Giffin
+3712 Jennifer Donnelly
+3713 David Baldacci
+3714 Curtis Sittenfeld
+3715 Chuck Klosterman
+3716 Paul Auster
+3717 Ian Falconer
+3718 Bill Willingham
+3719 E.L. Doctorow
+3720 John Grisham
+3721 Lois Lowry
+3722 David Benioff
+3723 Lois McMaster Bujold
+3724 Tracy Chevalier
+3725 Ariana Franklin
+3726 Tamora Pierce
+3727 Patricia McCormick
+3728 Terry Pratchett
+3729 Rachel Caine
+3730 Nicholas Sparks
+3731 Władysław Szpilman
+3732 Michael   Lewis
+3733 Jim Butcher
+3734 Nathaniel Philbrick
+3735 Dennis Lehane
+3736 Trudi Canavan
+3737 Kate Mosse
+3738 Terry Pratchett
+3739 Lee Child
+3740 Candice Millard
+3741 Christopher Moore
+3742 Jim Butcher
+3743 Eoin Colfer
+3744 Jennifer Donnelly
+3745 Terry Pratchett
+3746 Mark Haddon
+3747 Sarah Addison Allen
+3748 Gillian Flynn
+3749 Terry Pratchett
+3750 Jennifer Donnelly
+3751 Jonas Jonasson
+3752 Marisa de los Santos
+3753 David Foster Wallace
+3754 Andrea Levy
+3755 Tamora Pierce
+3756 Richard Dawkins
+3757 Gregory Maguire
+3758 Anchee Min
+3759 Tamora Pierce
+3760 Stephen King
+3761 Brent Weeks
+3762 Lois Lowry
+3763 Michael Crichton
+3764 Jeaniene Frost
+3765 Antonia Fraser
+3766 Michael  Grant
+3767 C.J. Sansom
+3768 Robert Crais
+3769 Heather Brewer
+3770 Rachel Caine
+3771 Laurie Halse Anderson
+3772 Tom McCarthy
+3773 Mahbod Seraji
+3774 Ilona Andrews
+3775 Joanne Harris
+3776 Jeaniene Frost
+3777 Rachel Caine
+3778 Scott Westerfeld
+3779 Kenneth Jarrett Singleton
+3780 Marina Lewycka
+3781 L.J. Smith
+3782 Trudi Canavan
+3783 Elizabeth Moon
+3784 Marilynne Robinson
+3785 Paolo Giordano
+3786 Nassim Nicholas Taleb
+3787 Jonathan Stroud
+3788 Steven D. Levitt
+3789 Tracy Chevalier
+3790 John Colapinto
+3791 Lauren Willig
+3792 Rachel Caine
+3793 Chuck Palahniuk
+3794 Patricia Cornwell
+3795 L.J. Smith
+3796 Stieg Larsson
+3797 Robert Kirkman
+3798 Augusten Burroughs
+3799 Stephen Briggs
+3800 L.J. Smith
+3801 Helen DeWitt
+3802 Deanna Raybourn
+3803 Joyce Carol Oates
+3804 Steven Johnson
+3805 Michelle Sagara
+3806 Meg Cabot
+3807 Rajiv Chandrasekaran
+3808 Janet Evanovich
+3809 Cinda Williams Chima
+3810 P.C. Cast
+3811 Kevin Brockmeier
+3812 J.R. Ward
+3813 Louise Erdrich
+3814 Alex Flinn
+3815 Philip Roth
+3816 Dan Simmons
+3817 Paolo Bacigalupi
+3818 Trudi Canavan
+3819 Alan Bennett
+3820 Kathy Reichs
+3821 Robert Jordan
+3822 Ned Vizzini
+3823 Philippa Gregory
+3824 Stephenie Meyer
+3825 Per Petterson
+3826 Rick Riordan
+3827 Jo Nesbø
+3828 Toni Weschler
+3829 Louise Erdrich
+3830 Anne Enright
+3831 Jeffrey Archer
+3832 Haruki Murakami
+3833 George Saunders
+3834 Michael   Lewis
+3835 Ann Finding
+3836 Charlaine Harris
+3837 Nelson DeMille
+3838 D.J. MacHale
+3839 Terry Pratchett
+3840 China Miéville
+3841 Jeff Lindsay
+3842 Lauren Weisberger
+3843 Robert Crais
+3844 James Patterson
+3845 Charlaine Harris
+3846 Robin Hobb
+3847 Sherrilyn Kenyon
+3848 Liu Cixin
+3849 John Grisham
+3850 Julie Powell
+3851 Kurt Vonnegut Jr.
+3852 Brandon Mull
+3853 Joseph Boyden
+3854 Jeanne DuPrau
+3855 Maeve Binchy
+3856 André Aciman
+3857 Jeffrey Archer
+3858 Amos Oz
+3859 Peter Godwin
+3860 Greg Behrendt
+3861 Stephen King
+3862 Al Franken
+3863 Ilona Andrews
+3864 Douglas Coupland
+3865 Jasper Fforde
+3866 Stephen King
+3867 Billy Collins
+3868 Michel Houellebecq
+3869 James Patterson
+3870 Daniel Woodrell
+3871 James D. Bradley
+3872 Shirley Hazzard
+3873 Marcus Luttrell
+3874 Jim Butcher
+3875 A.J.  Jacobs
+3876 Erik Larson
+3877 Neil Strauss
+3878 Rick Riordan
+3879 Robert Crais
+3880 Jasper Fforde
+3881 Ursula K. Le Guin
+3882 Paullina Simons
+3883 Joyce Carol Oates
+3884 Jussi Adler-Olsen
+3885 William T. Vollmann
+3886 Diane Ackerman
+3887 Jonathan Coe
+3888 Samantha Power
+3889 Colm Tóibín
+3890 Diana Wynne Jones
+3891 Meg Rosoff
+3892 Thomas Pynchon
+3893 Sarah Waters
+3894 Lian Hearn
+3895 Richelle Mead
+3896 Patrick Carman
+3897 Alexander McCall Smith
+3898 Nick Hornby
+3899 Cornelia Funke
+3900 Jasper Fforde
+3901 Stephen Hawking
+3902 Julia Child
+3903 Carl Hiaasen
+3904 Janet Evanovich
+3905 Salman Rushdie
+3906 Michael Chabon
+3907 Jenny Downham
+3908 Harlan Coben
+3909 Gemma Malley
+3910 Ildefonso Falcones
+3911 Harlan Coben
+3912 Tiffany Baker
+3913 Haruki Murakami
+3914 Stephen Colbert
+3915 Karl Ove Knausgård
+3916 Lois McMaster Bujold
+3917 Ken Follett
+3918 Janet Evanovich
+3919 Luis Alberto Urrea
+3920 E. Lockhart
+3921 Adriana Trigiani
+3922 Jon McGregor
+3923 Patricia Wood
+3924 Paulo Coelho
+3925 Heather Gudenkauf
+3926 Wendelin Van Draanen
+3927 Brandon Mull
+3928 Joe Hill
+3929 Richelle Mead
+3930 Jane Mayer
+3931 Robert Goolrick
+3932 James L. Swanson
+3933 Jennifer Crusie
+3934 Ariana Franklin
+3935 William  Boyd
+3936 Terry Pratchett
+3937 Tracy Chevalier
+3938 Robert   Harris
+3939 Michael Connelly
+3940 Michelle Sagara
+3941 Cinda Williams Chima
+3942 Michael Ondaatje
+3943 Malorie Blackman
+3944 Sudhir Venkatesh
+3945 Tamora Pierce
+3946 P.D. James
+3947 Michael Connelly
+3948 Patrick Carman
+3949 Nevada Barr
+3950 Alyson Noel
+3951 Laura Lippman
+3952 Glen Duncan
+3953 D.J. MacHale
+3954 Kim Harrison
+3955 John le Carré
+3956 David Baldacci
+3957 Gary Shteyngart
+3958 Philip Roth
+3959 Peter Matthiessen
+3960 Paul Auster
+3961 Anne Lamott
+3962 Ali Smith
+3963 David Baldacci
+3964 Alyson Noel
+3965 Philippa Gregory
+3966 Anne Bishop
+3967 Tamora Pierce
+3968 Carl Hiaasen
+3969 Peter Watts
+3970 Elizabeth Noble
+3971 Alexander McCall Smith
+3972 Claudia Gray
+3973 José Saramago
+3974 Karl Marlantes
+3975 Jeffery Deaver
+3976 Shannon Avery
+3977 Christopher  Rice
+3978 Stewart O'Nan
+3979 Anne McCaffrey
+3980 Stephen King
+3981 Brian Keene
+3982 Erin Hunter
+3983 C.J. Sansom
+3984 Jeannette Walls
+3985 Charlie Huston
+3986 Chelsea Cain
+3987 D.J. MacHale
+3988 Seanan McGuire
+3989 D.J. MacHale
+3990 Miranda July
+3991 Rick Riordan
+3992 Mitch Albom
+3993 C.J. Sansom
+3994 Jenny Nimmo
+3995 Michael Chabon
+3996 Anne McCaffrey
+3997 Perry    Moore
+3998 Lisa Lutz
+3999 Nora Roberts
+4000 Joss Whedon
+4001 Ian Caldwell
+4002 Tom Standage
+4003 Carl Hiaasen
+4004 Alastair Reynolds
+4005 Ursula K. Le Guin
+4006 Jose Dellepiane
+4007 Jonathan Culver
+4008 Steve Martin
+4009 Jenny Nimmo
+4010 Heather O'Neill
+4011 Laurie R. King
+4012 David Small
+4013 Susan Elizabeth Phillips
+4014 Shannon Hale
+4015 Chris Bohjalian
+4016 Dave Ramsey
+4017 Ken Follett
+4018 Tony Horwitz
+4019 Barbara Park
+4020 Stefan Fatsis
+4021 Jenny Nimmo
+4022 Monique Truong
+4023 Debbie Macomber
+4024 Steven Erikson
+4025 Anne McCaffrey
+4026 Brian Jacques
+4027 Linda Howard
+4028 James Rollins
+4029 Todd McCaffrey
+4030 Oliver Sacks
+4031 Angie Sage
+4032 Orson Scott Card
+4033 David  Wong
+4034 Elissa Wall
+4035 Laurie R. King
+4036 Tobias Wolff
+4037 Dan Wells
+4038 Rachel Ward
+4039 James Shapiro
+4040 R. Scott Bakker
+4041 Antonia Fraser
+4042 Joseph J. Ellis
+4043 Sarah L. Thomson
+4044 John Grisham
+4045 Julian Barnes
+4046 Uwem Akpan
+4047 Maggie Stiefvater
+4048 Martha N. Beck
+4049 Jeff Shaara
+4050 Ken Follett
+4051 Nassim Nicholas Taleb
+4052 Kathy Reichs
+4053 Tom Clancy
+4054 Michelle Alexander
+4055 John Banville
+4056 Suzanne Collins
+4057 Neil Gaiman
+4058 Maggie Stiefvater
+4059 Augusten Burroughs
+4060 Alison Weir
+4061 Michael Buckley
+4062 Michael Connelly
+4063 James Rollins
+4064 Bernard Cornwell
+4065 Morris Gleitzman
+4066 Mary Botham Howitt
+4067 G.J. Meyer
+4068 Joe Abercrombie
+4069 James Lileks
+4070 Delia Sherman
+4071 Erin Hunter
+4072 Jack Campbell
+4073 Jasper Fforde
+4074 Carol Plum-Ucci
+4075 George R.R. Martin
+4076 Sherrilyn Kenyon
+4077 Gwen Cooper
+4078 Dave Pelzer
+4079 Anita Shreve
+4080 Julia Spencer-Fleming
+4081 Timothy Egan
+4082 Marshall Goldsmith
+4083 Sherrilyn Kenyon
+4084 Edmund Morris
+4085 Michael Moore
+4086 Arthur C. Clarke
+4087 Nora Roberts
+4088 Janet Evanovich
+4089 Terry Goodkind
+4090 Joyce Carol Oates
+4091 Dorothy Gilman
+4092 Jeff Kinney
+4093 Bernard Cornwell
+4094 Geraldine McCaughrean
+4095 Michael Punke
+4096 Richard Grant
+4097 Elizabeth  George
+4098 Daniel Clowes
+4099 John Flanagan
+4100 Mohammed Hanif
+4101 Mary Novik
+4102 Marian Keyes
+4103 Lorrie Moore
+4104 Alain de Botton
+4105 John le Carré
+4106 Philip Pullman
+4107 Chris Stewart
+4108 David K. Shipler
+4109 Tim LaHaye
+4110 Jennifer Egan
+4111 Gerard Way
+4112 George R.R. Martin
+4113 Wayne W. Dyer
+4114 Susan Abulhawa
+4115 Joanne Harris
+4116 Jay Winik
+4117 Angie Sage
+4118 Robert M. Edsel
+4119 Lene Kaaberbøl
+4120 Robert A. Caro
+4121 Ann Brashares
+4122 Augusten Burroughs
+4123 Laura Wiess
+4124 Geoff Ryman
+4125 Lee Child
+4126 Jennifer Knox
+4127 Mercedes Lackey
+4128 Jo Nesbø
+4129 Adrian Tomine
+4130 Tamora Pierce
+4131 Thrity Umrigar
+4132 Kathryn Wesley
+4133 Martha Grimes
+4134 Nancy  Goldstone
+4135 Neil McKenna
+4136 Diana Gabaldon
+4137 Margaret Peterson Haddix
+4138 David Auburn
+4139 George R.R. Martin
+4140 Tim LaHaye
+4141 Sergei Lukyanenko
+4142 Azar Nafisi
+4143 Chuck Klosterman
+4144 Tim LaHaye
+4145 Graham McNeill
+4146 Andrey Kurkov
+4147 Peter F. Hamilton
+4148 Catherine Anderson
+4149 J.G. Ballard
+4150 Charles R. Cross
+4151 Charles de Lint
+4152 Jeanne DuPrau
+4153 Juliet Marillier
+4154 Rachel Simon
+4155 Francis S. Collins
+4156 Alice Hoffman
+4157 Terry Pratchett
+4158 Charles Finch
+4159 Tim LaHaye
+4160 Tamora Pierce
+4161 Nicholas Evans
+4162 Peter F. Hamilton
+4163 Chloe Neill
+4164 Philip Pullman
+4165 C.J. Sansom
+4166 Susan Elizabeth Phillips
+4167 Alain Robbe-Grillet
+4168 Mary Doria Russell
+4169 Imre Kertész
+4170 Cate Tiernan
+4171 Richard A. Clarke
+4172 Gena Showalter
+4173 Laura Weakley
+4174 Belzebuub
+4175 Conn Iggulden
+4176 Daniel Glattauer
+4177 Leni Zumas
+4178 Dean R. Koontz
+4179 Maria Savva
+4180 Isabel Allende
+4181 Bernard Cornwell
+4182 Joss Whedon
+4183 Sylvia Brownrigg
+4184 Brian Greene
+4185 Mende Nazer
+4186 Janet Evanovich
+4187 Geoffrey M. Gluckman
+4188 Ian Rankin
+4189 Mary Roach
+4190 Daniel Glattauer
+4191 Lili St. Crow
+4192 Orson Scott Card
+4193 Peter Behrens
+4194 Sun-mi Hwang
+4195 James D. Hornfischer
+4196 Annie Ernaux
+4197 Édouard Levé
+4198 David Baldacci
+4199 Dee Davis
+4200 Sarah Weeks
+4201 Wangari Maathai
+4202 Julia Quinn
+4203 Jeff Pearlman
+4204 Kai Meyer
+4205 Adam Zamoyski
+4206 Nick Hornby
+4207 Francesca Kay
+4208 Loung Ung
+4209 James Patterson
+4210 Steven L. Kent
+4211 Alison Croggon
+4212 Mark Oliver Everett
+4213 Andre Dubus III
+4214 David Gemmell
+4215 Patricia B. McConnell
+4216 Stephen King
+4217 Robert Kurson
+4218 Nalini Singh
+4219 Lene Kaaberbøl
+4220 Miguel Sousa Tavares
+4221 Ajahn Brahm
+4222 Nalini Singh
+4223 Ruth Reichl
+4224 Harriet A. Washington
+4225 Thomas King
+4226 Vikram Chandra
+4227 Jerry Travis
+4228 Katie Roiphe
+4229 Jan Karon
+4230 Olen Steinhauer
+4231 Jeff Shaara
+4232 Pat Barker
+4233 Suzanne Brockmann
+4234 Mark Salzman
+4235 Sonya Hartnett
+4236 Dean Koontz
+4237 Gabor Maté
+4238 Lydia Davis
+4239 Douglas Coupland
+4240 J.D. Robb
+4241 Lisa McMann
+4242 Sarah Dessen
+4243 Ravi Zacharias
+4244 Meg Cabot
+4245 Sofi Oksanen
+4246 Lee Strobel
+4247 Roberto Saviano
+4248 Rory Stewart
+4249 Christine Feehan
+4250 Edwin Black
+4251 Sjón
+4252 Patricia Briggs
+4253 Erin Hunter
+4254 Manda Scott
+4255 David Liss
+4256 Richard K. Morgan
+4257 Karen Maitland
+4258 John Dominic Crossan
+4259 Sara Ryan
+4260 Chuck Palahniuk
+4261 Erin Hunter
+4262 Cody McFadyen
+4263 Stephen Baxter
+4264 Jan Karon
+4265 Robert E. Howard
+4266 Philip Roth
+4267 Simon Reeve
+4268 Frank Delaney
+4269 Andrea Lee Smith
+4270 Milan Kundera
+4271 Robert Muchamore
+4272 Nancy Clark
+4273 John Guy
+4274 Iain Pears
+4275 David Halberstam
+4276 Iain M. Banks
+4277 Christos Tsiolkas
+4278 Louis de Bernières
+4279 William T. Vollmann
+4280 Jan-Philipp Sendker
+4281 Liu Cixin
+4282 Orlando Figes
+4283 Tad Williams
+4284 Michael Howell
+4285 Simon Goddard
+4286 Laura Moriarty
+4287 Karen Russell
+4288 Chris Wooding
+4289 Boris Akunin
+4290 Cory Doctorow
+4291 Bob Woodward
+4292 Colleen McCullough
+4293 Tite Kubo
+4294 Julia Golding
+4295 Isa Chandra Moskowitz
+4296 Lisa M. Klein
+4297 Joanne Harris
+4298 Ben Goldacre
+4299 Laura M. Flynn
+4300 Hiromu Arakawa
+4301 Joseph J. Ellis
+4302 Michael T. Dolan
+4303 Chris Stewart
+4304 Dan Simmons
+4305 Emma Bull
+4306 Jeanne DuPrau
+4307 Dan Merchant
+4308 Gemma Malley
+4309 Eric Jager
+4310 Lynn Flewelling
+4311 Sandra Kring
+4312 Nicholas Evans
+4313 Mary Pat Kelly
+4314 Jostein Gaarder
+4315 Carl Hiaasen
+4316 Liza Dalby
+4317 Gregory Cochran
+4318 Tamora Pierce
+4319 David Baldacci
+4320 Tanya Huff
+4321 Molly Harper
+4322 Deborah Crombie
+4323 Beth Fantaskey
+4324 Paullina Simons
+4325 James Luceno
+4326 Chris Stewart
+4327 James  Wood
+4328 Garth Nix
+4329 Raymond Khoury
+4330 Doug Stanton
+4331 Scott Westerfeld
+4332 Jake Adelstein
+4333 Jilly Cooper
+4334 Catherine O'Flynn
+4335 Kim Paffenroth
+4336 Andrea J. Buchanan
+4337 Steven Brust
+4338 Karen      Rose
+4339 Kim Stanley Robinson
+4340 Judith Levine
+4341 Chris Stewart
+4342 Christopher Moore
+4343 Mo Willems
+4344 David Grossman
+4345 Thomas C. Foster
+4346 Karin Fossum
+4347 Pete Hautman
+4348 Meg Cabot
+4349 Alan Barnes
+4350 Kim Paffenroth
+4351 Gaelen Foley
+4352 Madeline Hunter
+4353 Darren Shan
+4354 Timothy J. Keller
+4355 Karl Ove Knausgård
+4356 Barton Gellman
+4357 Steven Gould
+4358 Alan Bennett
+4359 Lois McMaster Bujold
+4360 The Arbinger Institute
+4361 Annabel Lyon
+4362 Adriana Trigiani
+4363 Kelley Armstrong
+4364 Jeff Talarigo
+4365 Hester Browne
+4366 Sara Shepard
+4367 Michael W. Kauffman
+4368 Rick Perlstein
+4369 Dan Millman
+4370 James   McBride
+4371 Amulya Malladi
+4372 Anne Bishop
+4373 K.A. Applegate
+4374 Rhonda Byrne
+4375 Apostolos Doxiadis
+4376 Kurt Busiek
+4377 Drew Karpyshyn
+4378 Hiromu Arakawa
+4379 Tami Hoag
+4380 Mark Millar
+4381 Robin Furth
+4382 Marjane Satrapi
+4383 Lili St. Crow
+4384 Maria V. Snyder
+4385 Catherine Anderson
+4386 Homero Aridjis
+4387 Robin Renee Ray
+4388 Chris Wooding
+4389 James C. Taylor
+4390 J.R. Rain
+4391 Robert Charles Wilson
+4392 Aladdin Elaasar
+4393 Douglas Coupland
+4394 Adam Świeżyński
+4395 Don  Inman
+4396 Lucy Gordon
+4397 Vincent Bugliosi
+4398 Neil D. Ostroff
+4399 David E. Stuart
+4400 James Salant
+4401 Chaz Brenchley
+4402 Raven West
+4403 T.L. Shreffler
+4404 Guus Kuijer
+4405 Ruth Willerth
+4406 Marie Clayton
+4407 محمد سالم عبادة
+4408 Philip Carlo
+4409 Juliet Marillier
+4410 Peter F. Hamilton
+4411 Tiziano Terzani
+4412 Sara Wheeler
+4413 Richard Denning
+4414 Jim C. Hines
+4415 Koren Zailckas
+4416 Alaa Al Aswany
+4417 Garth Ennis
+4418 Alice Oswald
+4419 Terry Lloyd Vinson
+4420 Kate DiCamillo
+4421 Avi Shlaim
+4422 Marcus Sedgwick
+4423 Thich Nhat Hanh
+4424 Shane Claiborne
+4425 Chris Crutcher
+4426 Harry Turtledove
+4427 Will Self
+4428 Sarah Turnbull
+4429 Geronimo Stilton
+4430 Ted Chiang
+4431 Robert D. Fulk
+4432 Elizabeth Scott
+4433 Richard Reich
+4434 Alan                Campbell
+4435 Luís Caminha
+4436 Stephen Hunt
+4437 David Lozano Garbala
+4438 Rick Atkinson
+4439 Kazu Kibuishi
+4440 Jordan Sonnenblick
+4441 John Grisham
+4442 Katarina Wennstam
+4443 Maite Larrauri
+4444 Núria Añó
+4445 鷲田 清一
+4446 Mahmoud Darwish
+4447 Haruki Murakami
+4448 Andrew Carrington Hitchcock
+4449 Kathleen Benner Duble
+4450 Tom Drury
+4451 Lisa Lerner
+4452 Betty Dravis
+4453 Paul Feig
+4454 Kane X. Faucher
+4455 Gin Phillips
+4456 Valjeanne Jeffers
+4457 Brendan Halpin
+4458 Jeffrey Moore
+4459 James L. Kugel
+4460 Ann Hood
+4461 Robert Fanney
+4462 Meg Cabot
+4463 Peter Terzian
+4464 Nell Freudenberger
+4465 Stanley Wells
+4466 Katie MacAlister
+4467 Dean Karnazes
+4468 Peter Feldstein
+4469 Susie Boyt
+4470 Sean Kennedy
+4471 Shamus Sherwood
+4472 Kalki
+4473 John  Dalton
+4474 David Oppegaard
+4475 Tyler Knox
+4476 Warren Fahy
+4477 George Lakoff
+4478 D.M. Cornish
+4479 Steve Alten
+4480 Marie Lawrence
+4481 James  Wood
+4482 Connie May Fowler
+4483 Tom Waters
+4484 Michael Gates Gill
+4485 Lesley Livingston
+4486 Amy Krouse Rosenthal
+4487 Aladdin Elaasar
+4488 Linda Masemore Pirrung
+4489 Daniel Abraham
+4490 Renee Roszel
+4491 Nafisa Haji
+4492 Lynn Flewelling
+4493 Twyla Tharp
+4494 John Rucyahana
+4495 Quinlan B. Lee
+4496 Lynn Austin
+4497 Mark Jude Poirier
+4498 Sherman Alexie
+4499 Toru Fujisawa
+4500 Corrado Ghinamo
+4501 László Krasznahorkai
+4502 John Banville
+4503 Anne Rice
+4504 Juliana Spahr
+4505 Mark Del Franco
+4506 Rosalie Ham
+4507 Vernor Vinge
+4508 Na'ima B. Robert
+4509 Shu Jiang Lu
+4510 Mary Higgins Clark
+4511 Tim Bowler
+4512 Suzanne LaFleur
+4513 W.A. Hoffman
+4514 Kai Meyer
+4515 Kenneth J. Harvey
+4516 Alex von Tunzelmann
+4517 Catherine Anderson
+4518 Cornelia Funke
+4519 Benson Deng
+4520 Anthony Horowitz
+4521 Robert Lacey
+4522 Jo Marchant
+4523 Lee Edward Födi
+4524 F.E. Higgins
+4525 Jean M. Malone
+4526 Sherman Alexie
+4527 Andrew       Peterson
+4528 Peter Ackroyd
+4529 Ian W. Toll
+4530 Neil Gaiman
+4531 Taiaiake  Alfred
+4532 Corrado Ghinamo
+4533 Deanna Raybourn
+4534 Anne Rice
+4535 Marjetta Geerling
+4536 Craig Clevenger
+4537 Lynn Flewelling
+4538 Kenneth E. Bailey
+4539 Mike  Davis
+4540 Joanna Stephen-Ward
+4541 Neale Donald Walsch
+4542 Cees Nooteboom
+4543 Wajdi Mouawad
+4544 Louann Brizendine
+4545 Michele Hauf
+4546 Julia Gregson
+4547 Danielle Steel
+4548 Henna Goudzand Nahar
+4549 Heather Clay
+4550 Kevin J. Anderson
+4551 Asa Don Brown
+4552 William McDonough
+4553 Peter Fritzsche
+4554 Jan-Dirk Müller
+4555 J.F. Gonzalez
+4556 Paulo Coelho
+4557 Martin Edwards
+4558 Catherine Anderson
+4559 Laini Taylor
+4560 Dick Winters
+4561 Frank Moorhouse
+4562 Dave Isay
+4563 Catherine Banner
+4564 Amélie Nothomb
+4565 Lisa Gardner
+4566 Sabina Murray
+4567 Gerard Way
+4568 Barry  Lopez
+4569 Dara Horn
+4570 Jaclyn Friedman
+4571 Kate Furnivall
+4572 Leroy Barnes
+4573 Alice W. Flaherty
+4574 Randa Abdel-Fattah
+4575 Timothy J. Keller
+4576 Tracy Chevalier
+4577 Catherine Anderson
+4578 George Carlin
+4579 Johan Harstad
+4580 Victoria Hanley
+4581 Carolyn Meyer
+4582 Francine Rivers
+4583 Lauren Grodstein
+4584 A.S. Peterson
+4585 Will Self
+4586 Robert Kirkman
+4587 Lydia Davis
+4588 Rikki Ducornet
+4589 Nick Sagan
+4590 Marc Levy
+4591 Bob Morse
+4592 Beverly Daniel Tatum
+4593 Manda Scott
+4594 Audrey Niffenegger
+4595 Karen Kingsbury
+4596 Tanja Kinkel
+4597 Claudia Piñeiro
+4598 Harlan Coben
+4599 Jon Ronson
+4600 John C. Wright
+4601 Christina Hoff Sommers
+4602 Richard Sennett
+4603 Krista Tippett
+4604 Sharon Shinn
+4605 Kenneth Koch
+4606 Oksana Zabuzhko
+4607 John F. Wukovits
+4608 Richard   Holmes
+4609 Meredith Duran
+4610 Alice Fahs
+4611 Max Brooks
+4612 Samuel R. Delany
+4613 Jean Rolin
+4614 David Nicholls
+4615 Ginn Hale
+4616 Sarah Steinberg
+4617 Kurt Eichenwald
+4618 Mark Winne
+4619 Neta Jackson
+4620 Anne-Laure Bondoux
+4621 Cindy Gretchen Ovenrack Crabb
+4622 Marjorie Priceman
+4623 Kurt Vonnegut Jr.
+4624 Megan E. Ash
+4625 Gene Wolfe
+4626 Axel Brauns
+4627 Jack Lynch
+4628 Nadine Gordimer
+4629 Felicia Kornbluh
+4630 Chetan Bhagat
+4631 Lorelei James
+4632 Irvine Welsh
+4633 Ron Silliman
+4634 Norm Feuti
+4635 Cathy Malkasian
+4636 M.I. McAllister
+4637 Ann Tatlock
+4638 G.K. Beale
+4639 James E. Rogan
+4640 Richard   Holmes
+4641 Sofi Oksanen
+4642 Paulina Chiziane
+4643 Rachel Klein
+4644 Diane Ackerman
+4645 R.E. de Bruin
+4646 Thomas Pynchon
+4647 Frazier Glenn Miller
+4648 June Jordan
+4649 Jennifer Chiaverini
+4650 Robin Jones Gunn
+4651 Iselin C. Hermann
+4652 Marilyn Paul
+4653 Nick Hornby
+4654 Stanley Wells
+4655 Dara Horn
+4656 Chetan Bhagat
+4657 K.A. Mitchell
+4658 Don Felder
+4659 Mitch Cullin
+4660 Rory Stewart
+4661 Will Elliott
+4662 Andrew Clements
+4663 Alex Shearer
+4664 Diane Schoemperlen
+4665 David Salge
+4666 Stuart Ross McCallum
+4667 Rupert  Smith
+4668 Harun Yahya
+4669 Carol Plum-Ucci
+4670 Sherry Austin
+4671 Yuri Stoyanov
+4672 Steven K. Scott
+4673 Terri Blackstock
+4674 Raymond E. Feist
+4675 Steve Jones
+4676 Aladdin Elaasar
+4677 Carole Mortimer
+4678 Mark Salzman
+4679 Ludmilla Petrushevskaya
+4680 José Rodrigues dos Santos
+4681 Nalini Singh
+4682 Elizabeth Berg
+4683 Ferdinand von Schirach
+4684 John Edward
+4685 John H. Groberg
+4686 Jessie Keane
+4687 M.A. Harper
+4688 Tim Winton
+4689 Boris Akunin
+4690 Sharon G. Flake
+4691 Helen Hollick
+4692 Daniel Abraham
+4693 Richard Fortey
+4694 Jeaniene Frost
+4695 Francesca Marciano
+4696 Sara Shepard
+4697 J.R.R. Tolkien
+4698 Peter Jenkins
+4699 Alethea Kontis
+4700 Mari Jungstedt
+4701 Melinda Metz
+4702 Erica Kirov
+4703 Joshua W. Cotter
+4704 Lloyd Alexander
+4705 Darren Shan
+4706 Howard Zinn
+4707 Ross King
+4708 Rob Ruggenberg
+4709 Fuminori Nakamura
+4710 Helon Habila
+4711 Staton Rabin
+4712 Eleanor Catton
+4713 Atul Gawande
+4714 Douglas Preston
+4715 D.B. Reynolds
+4716 Philippe Grimbert
+4717 Susie Steinbach
+4718 Susan Wise Bauer
+4719 Marc Levy
+4720 Anne Bishop
+4721 Manda Scott
+4722 Markus Heitz
+4723 Julia Spencer-Fleming
+4724 Brian Tracy
+4725 Yuri Herrera
+4726 Karen Kingsbury
+4727 Carolyn Jones
+4728 Peter Geye
+4729 Michelle Sagara
+4730 Philip Reeve
+4731 Andrea Pickens
+4732 Beth Ann Fennelly
+4733 Louise Rennison
+4734 Леонід Кисельов
+4735 Roddy Doyle
+4736 Bryan Talbot
+4737 Kelly Milner Halls
+4738 Randy Singer
+4739 Marilyn Hacker
+4740 M.I. McAllister
+4741 Dan Gutman
+4742 Laila Lalami
+4743 Ivan Doig
+4744 Melissa Wiley
+4745 Malcolm MacPherson
+4746 Max Arthur
+4747 David Wood
+4748 Claudia Piñeiro
+4749 Richard   Holmes
+4750 Ben Knapen
+4751 Meredith Efken
+4752 David Leavitt
+4753 Renate Dorrestein
+4754 Robin Jones Gunn
+4755 J.M.G. Le Clézio
+4756 Nicholas Noe
+4757 Sallie Bingham
+4758 Michael Swanwick
+4759 Michael Wood
+4760 Muriel Spark
+4761 Michael Nield
+4762 Roman Dirge
+4763 Steve Kluger
+4764 William T. Vollmann
+4765 Daniel Pinchbeck
+4766 Dinesh D'Souza
+4767 Robert Bringhurst
+4768 Sherry Austin
+4769 Orson Scott Card
+4770 Michael Phelps
+4771 Suzanne Selfors
+4772 Mireille Guiliano
+4773 Aimee Bender
+4774 Esther Hicks
+4775 Sarah Challis
+4776 James D. Tabor
+4777 Joe Sacco
+4778 Ellen Kushner
+4779 Kat Richardson
+4780 Anthony Rapp
+4781 Katherine Ashenburg
+4782 Allison DuBois
+4783 Mark Roseman
+4784 Valerie Bertinelli
+4785 William A. Newman
+4786 Patricia Grace
+4787 Dmitry Glukhovsky
+4788 J. Angelo Corlett
+4789 Peter Ho Davies
+4790 Jenny-Mai Nuyen
+4791 Sharon Shinn
+4792 Faith Hunter
+4793 Charles de Lint
+4794 David Guterson
+4795 Mari Mancusi
+4796 Dean Koontz
+4797 Mercedes Lackey
+4798 Chuck Hogan
+4799 Luke Haines
+4800 Mitsutoshi Shimabukuro
+4801 R.T. Kendall
+4802 Jonathan Tropper
+4803 Dana Marie Bell
+4804 Gerard Donovan
+4805 Denise Scott
+4806 Tal Ben-Shahar
+4807 Mitiarjuk Nappaaluk
+4808 Hwang Sok-yong
+4809 Anselm Audley
+4810 Ben Counter
+4811 Juha Itkonen
+4812 Thomas      Quinn
+4813 MaryJanice Davidson
+4814 Tomie dePaola
+4815 Maja Hagerman
+4816 Chris Jericho
+4817 Brian Thacker
+4818 Malinda Lo
+4819 Robin Jarvis
+4820 Alain de Botton
+4821 Laura Anne Gilman
+4822 Kathleen Ernst
+4823 Patricia B. McConnell
+4824 Trenton Lee Stewart
+4825 Louise Rennison
+4826 Sonia Shah
+4827 Leonid Plyushch
+4828 Neal Shusterman
+4829 L. Timmel Duchamp
+4830 Grace Draven
+4831 Polly Horvath
+4832 Shin Kyung-sook
+4833 Alister E. McGrath
+4834 Kathy Harrison
+4835 Hugh Ross
+4836 Melissa Wiley
+4837 Sara Kadefors
+4838 Annie Ernaux
+4839 Eden Robinson
+4840 Alex Kerr
+4841 Edmund Morris
+4842 Kevin Cook
+4843 Judy Nichols
+4844 Warren Ellis
+4845 David Bevington
+4846 Helen Dunmore
+4847 Simon Mawer
+4848 Ingrid Winterbach
+4849 Al Gore
+4850 Megan McCafferty
+4851 Blair Underwood
+4852 Harun Yahya
+4853 Daniel Pinchbeck
+4854 Augusten Burroughs
+4855 Chelsea Cain
+4856 Terry Brooks
+4857 Linda R. Monk
+4858 Greg Behrendt
+4859 Stephen Booth
+4860 Clive Cussler
+4861 Kirby Crow
+4862 Amanda Eyre Ward
+4863 Eoin Colfer
+4864 Trezza Azzopardi
+4865 Therese Anne Fowler
+4866 Pierre Bordage
+4867 Kathryn Lasky
+4868 Emily Craig
+4869 Shannon Hale
+4870 Phil Lovesey
+4871 Karen Chance
+4872 Karen Chance
+4873 Roderick Gordon
+4874 Robert Doherty
+4875 Roger Ebert
+4876 Francis G. Gentry
+4877 Liaquat Ahamed
+4878 R.C. Sproul
+4879 Jonathan Tropper
+4880 D.B. Reynolds
+4881 Meg Cabot
+4882 Shan Sa
+4883 Randy Alcorn
+4884 Philip Roth
+4885 Janusz Leon Wiśniewski
+4886 Julian Gough
+4887 MaryJanice Davidson
+4888 Shirley Povich
+4889 Angela Robinson
+4890 Iain Lawrence
+4891 Julia Spencer-Fleming
+4892 Karen Armstrong
+4893 Karen Kingsbury
+4894 Tim Tharp
+4895 Charles Lewinsky
+4896 Robin Jarvis
+4897 Karl Ove Knausgård
+4898 Javier Marías
+4899 Laura Anne Gilman
+4900 Matthea Harvey
+4901 Evelyn Coleman
+4902 Louise Rennison
+4903 David Quammen
+4904 Yevhen Sverstiuk
+4905 Hilary Mantel
+4906 Lyn Hejinian
+4907 Ian Frazier
+4908 C.S. Richardson
+4909 Diane Noble
+4910 Ursula K. Le Guin
+4911 Louis V. Gerstner Jr.
+4912 Stewart Brand
+4913 Hisham Matar
+4914 Melissa Wiley
+4915 Peter H. Reynolds
+4916 Winston Groom
+4917 Maite Larrauri
+4918 Kim Ae-ran
+4919 Clare Morrall
+4920 Coe Booth
+4921 A.D. Nuttall
+4922 Joseph Lidster
+4923 Olen Steinhauer
+4924 Marjane Satrapi
+4925 Bruce Schneier
+4926 Pat Perrin
+4927 Julia Spencer-Fleming
+4928 New York Magazine
+4929 Steven  Briggs
+4930 Konstanze von Schulthess
+4931 Michael          Carroll
+4932 Jaida Jones
+4933 Charles Lewinsky
+4934 Carolyn Meyer
+4935 Diana Wynne Jones
+4936 David Peace
+4937 Gian Carlo Calza
+4938 Laura Anne Gilman
+4939 Eavan Boland
+4940 Francine Rose
+4941 Leigh Richards
+4942 Varujan Vosganian
+4943 Julia Spencer-Fleming
+4944 Paul Chambers
+4945 Paolo Bacigalupi
+4946 Harlan Coben
+4947 Tim Green
+4948 David Chariandy
+4949 Richard Grusin
+4950 Carolyn Meyer
+4951 John Scalzi
+4952 Julia Navarro
+4953 Laura Anne Gilman
+4954 R.A. Salvatore
+4955 Louise Rennison
+4956 Микола Лукаш
+4957 Terry Pratchett
+4958 Mark Cousins
+4959 A. Lee Martinez
+4960 M.I. McAllister
+4961 Arthur C. Clarke
+4962 Michael R. Phillips
+4963 David M.  Lawrence
+4964 Tremper Longman III
+4965 Celia Wilkins
+4966 Bernard Cornwell
+4967 Edward G. Lengel
+4968 Marian Keyes
+4969 Jon Krakauer
+4970 Ananda Devi
+4971 Martha Wells
+4972 David Halberstam
+4973 Nicola Barker
+4974 Kim Mckay
+4975 Paul Kearney
+4976 Beth Kephart
+4977 Harlan Coben
+4978 Jennifer Ashley
+4979 Laura Anne Gilman
+4980 R.A. Salvatore
+4981 Catriona McPherson
+4982 John Eldredge
+4983 Kai Meyer
+4984 Louise Rennison
+4985 Vsevolod Nestayko
+4986 Patricia Briggs
+4987 Terry Pratchett
+4988 Belinda Bauer
+4989 Jacques Derrida
+4990 Ian McDonald
+4991 Lyudmila Ulitskaya
+4992 David Wiesner
+4993 Cecilia Samartin
+4994 Clare B. Dunkle
+4995 Laura Anne Gilman
+4996 R.A. Salvatore
+4997 Lyudmila Ulitskaya
+4998 Victor Sebestyen
+4999 Ian Frazier
+5000 Ian Holding
+5001 Lemony Snicket
+5002 Lee Strobel
+5003 Sharon Kay Penman
+5004 Jillian Weise
+5005 Bruce Fife
+5006 Eileen Dunlop
+5007 Mathilde Monnier
+5008 Rosemary Kirstein
+5009 Dalton Fury
+5010 Andrey Kurkov
+5011 Andrew Fox
+5012 Loren D. Estleman
+5013 Miriam Toews
+5014 Sheri Holman
+5015 Shelly Laurenston
+5016 Lynn Viehl
+5017 Mario Livio
+5018 William R. Polk
+5019 Allison Pearson
+5020 C.E. Trueman
+5021 Terri Blackstock
+5022 Michael Isikoff
+5023 Terri Blackstock
+5024 Megan McDonald
+5025 Eric Litwin
+5026 Britta Teckentrup
+5027 Lance Armstrong
+5028 Laurence Miller
+5029 Karen      Rose
+5030 Robyn Young
+5031 Christine Feehan
+5032 Katherine Marsh
+5033 Slavoj Žižek
+5034 Stephen  Clarke
+5035 Jim C. Hines
+5036 Michael Palin
+5037 Karen Chance
+5038 Martin Cruz Smith
+5039 Anthony Everitt
+5040 Anna Lytsy
+5041 Sally Beauman
+5042 Tom Franklin
+5043 Janet Evanovich
+5044 William Brodrick
+5045 Willy Russell
+5046 Denzel Washington
+5047 Dana Reinhardt
+5048 Diane Ravitch
+5049 William Woodall
+5050 Joan Didion
+5051 Megan McDonald
+5052 Jacqueline Carey
+5053 Stuart MacBride
+5054 Robyn Young
+5055 Christine Feehan
+5056 Gore Vidal
+5057 Terri Blackstock
+5058 James Bamford
+5059 Rebecca Wells
+5060 Megan McDonald
+5061 Charles Stross
+5062 Rosina Lippi
+5063 Frank X. Gaspar
+5064 R.N. Etienne
+5065 Peter Berling
+5066 Christine Feehan
+5067 Coleen Murtagh Paratore
+5068 Carmela Ciuraru
+5069 Jim C. Hines
+5070 Janet McNaughton
+5071 Lara Adrian
+5072 Richard Nielsen
+5073 Cait Murphy
+5074 Catherine Fisher
+5075 Margaret Peterson Haddix
+5076 Gail Carson Levine
+5077 Linda Nagata
+5078 David Weber
+5079 Piper Banks
+5080 Theodore Dalrymple
+5081 Adrian Tchaikovsky
+5082 Rhys Bowen
+5083 Stephen W. Frey
+5084 Kathryn  Hughes
+5085 Paul Tough
+5086 Connie Willis
+5087 Tamara Summers
+5088 Boris Akunin
+5089 Justin Pearce
+5090 Peter Tremayne
+5091 Anne Bishop
+5092 Kitty Sewell
+5093 Ozzy Osbourne
+5094 Saga Borg
+5095 David A. Kessler
+5096 Toshiaki Iwashiro
+5097 Patricia C. Wrede
+5098 Maeve Binchy
+5099 Amanda Stevens
+5100 Gail Z. Martin
+5101 Martha Kirkland
+5102 P.B. Kerr
+5103 Jeanette Winterson
+5104 George Y. Shevelov
+5105 Edie Claire
+5106 Paul David Tripp
+5107 Xinran
+5108 Judith Butler
+5109 David Liss
+5110 Mike Cronin
+5111 J.M. Coetzee
+5112 Sandra Birdsell
+5113 Charles Martin
+5114 Guy Deutscher
+5115 Stephen M. Stahl
+5116 Mary Oliver
+5117 Joe Queenan
+5118 Marjane Satrapi
+5119 Simonetta Agnello Hornby
+5120 M. John Harrison
+5121 Nigel Slater
+5122 Allegra Goodman
+5123 Jeffrey Archer
+5124 Anne Stuart
+5125 Bjørn Lomborg
+5126 Lynne Truss
+5127 Rebecca Mead
+5128 Francine Prose
+5129 Mark Strand
+5130 Megan McDonald
+5131 Annalee Newitz
+5132 Beverly Barton
+5133 Christine Feehan
+5134 Kirsten Boie
+5135 Lisa Gardner
+5136 Richie Tankersley Cusick
+5137 Meg Cabot
+5138 Meg Cabot
+5139 Lara Adrian
+5140 Steve Goldman
+5141 Peter D. Ward
+5142 Brian Fawcett
+5143 Kenneth Oppel
+5144 Margaret Peterson Haddix
+5145 Lloyd Alexander
+5146 Erin Hunter
+5147 Amelia Atwater-Rhodes
+5148 Neil Gaiman
+5149 Ian Breckon
+5150 Barbara Cleverly
+5151 Alan Glynn
+5152 Gracia Burnham
+5153 Nina Antonia
+5154 Scott Turow
+5155 Alan Huffman
+5156 Dana Marie Bell
+5157 Robert P. Murphy
+5158 Teju Cole
+5159 Roberto Bolaño
+5160 Boris Akunin
+5161 Gareth Roberts
+5162 Louise Penny
+5163 Orson Scott Card
+5164 Ode Ogede
+5165 Wai Chee Dimock
+5166 Saga Borg
+5167 Georg Meinecke
+5168 Toshiaki Iwashiro
+5169 Robin Hobb
+5170 David Rosenfelt
+5171 Michael O. Emerson
+5172 Joyce Maynard
+5173 Ira Berlin
+5174 P.B. Kerr
+5175 Louis Theroux
+5176 Arkas
+5177 Marion Chesney
+5178 Monika Feth
+5179 Jeanette Winterson
+5180 Douglas A. Blackmon
+5181 Vasyl Slapchuk
+5182 Neil Gaiman
+5183 Robert W. Merry
+5184 Allan Folsom
+5185 Robert Elmer
+5186 Ramsey Campbell
+5187 Éric-Emmanuel Schmitt
+5188 William Lane Craig
+5189 Philip Dray
+5190 Bernard Cornwell
+5191 Simon Brett
+5192 John F. MacArthur Jr.
+5193 Pamela Spiro Wagner
+5194 John McManus
+5195 Arnold J. "Red" Auerbach
+5196 Alexandra Pasian
+5197 Nora Roberts
+5198 Lynn Gardner
+5199 Helen Garner
+5200 Laura Moriarty
+5201 Andrea Howarth-Salazar
+5202 Bob Ong
+5203 Megan McDonald
+5204 Tananarive Due
+5205 John   Perry
+5206 Beverly Barton
+5207 Katherine Marsh
+5208 Rachel Vail
+5209 Gail Giles
+5210 Lawrence Anthony
+5211 Iain M. Banks
+5212 Max Barry
+5213 Kinuko Y. Craft
+5214 Katherine Applegate
+5215 Amanda Ripley
+5216 Frank Delaney
+5217 James Ellroy
+5218 Leonard Ryzman
+5219 Ivan E. Coyote
+5220 David   Reynolds
+5221 Katrina Karkazis
+5222 Barbara Cleverly
+5223 Andrew J. Cherlin
+5224 Cheyenne McCray
+5225 Erwin Mortier
+5226 Luc Besson
+5227 Chris Crowley
+5228 Mark Kermode
+5229 Paul Doherty
+5230 Katie MacAlister
+5231 Erin Hunter
+5232 Patricia Briggs
+5233 Bruce Newman
+5234 Liza Marklund
+5235 Karen Kingsbury
+5236 Carola Dunn
+5237 Robert Dugoni
+5238 Keri Arthur
+5239 Hiromu Arakawa
+5240 Deborah Hopkinson
+5241 Joseph M. Marshall III
+5242 Monika Feth
+5243 Lynn Gardner
+5244 Lionel Casson
+5245 Cornelia Funke
+5246 Ma Jian
+5247 Frank Warren
+5248 David Olusoga
+5249 Oksana Zabuzhko
+5250 Susan Sontag
+5251 Bethany McLean
+5252 Terry Brooks
+5253 James R.  White
+5254 Dany Laferrière
+5255 Pete Egoscue
+5256 Robert Crais
+5257 Michael Craig
+5258 Maurice Gee
+5259 Tom Holt
+5260 Nolan Dalla
+5261 James McManus
+5262 James Reston Jr.
+5263 Lauren Conrad
+5264 Karl Pilkington
+5265 Pamela August Russell
+5266 Terri Blackstock
+5267 Jeff Kinney
+5268 Kristin Clark Venuti
+5269 Raymond Khoury
+5270 Christine Feehan
+5271 Elizabeth Cody Kimmel
+5272 Darby Conley
+5273 The Beatles
+5274 James R. Holmes
+5275 Matthew Loux
+5276 Andrea Camilleri
+5277 Melissa de la Cruz
+5278 Miu Kawasaki
+5279 Daniel Suarez
+5280 Rebecca Wells
+5281 Nick Jans
+5282 Krista Ratcliffe
+5283 Jonathan Lethem
+5284 Thomas Sowell
+5285 Ric Flair
+5286 Richard Flanagan
+5287 Анатолий Брусникин
+5288 Nicholas Pegg
+5289 Lynda S. Robinson
+5290 Vaclav Smil
+5291 Salman Rushdie
+5292 Karen Kingsbury
+5293 Gretchen Holbrook Gerzina
+5294 Bruce Alexander
+5295 Chris Marie Green
+5296 Hiromu Arakawa
+5297 Barbara Metzger
+5298 Georgia Byng
+5299 Kazuo Ishiguro
+5300 Elise Paschen
+5301 Samuel R. Delany
+5302 Margaret MacMillan
+5303 Herbie Brennan
+5304 Craig A. Evans
+5305 Tracy Borman
+5306 Ivan T. Sanderson
+5307 Reza Aslan
+5308 Maurice Gee
+5309 Richard  Sparks
+5310 Emma Holly
+5311 Jim Dent
+5312 William H. White
+5313 Christine Feehan
+5314 Jacqueline Carey
+5315 Jacqueline Carey
+5316 Elise Broach
+5317 G.M. Ford
+5318 Kerry Hardie
+5319 Anne Perry
+5320 Dawn Cook
+5321 Kate Grenville
+5322 Ryan Ver Berkmoes
+5323 Orson Scott Card
+5324 Helena María Viramontes
+5325 Nancy Kress
+5326 Nevada Barr
+5327 Nina Revoyr
+5328 Jaida Jones
+5329 Bruce Alexander
+5330 Hiromu Arakawa
+5331 Catherine Allgor
+5332 Constance Briscoe
+5333 Linda Sue Park
+5334 Samuel R. Delany
+5335 William Taubman
+5336 Bernard Cornwell
+5337 Darrell L. Bock
+5338 Nelly Arcan
+5339 Bart D. Ehrman
+5340 Steven G. Krantz
+5341 James Norman
+5342 Byron Katie
+5343 David Apostolico
+5344 Christopher Brookmyre
+5345 Lindsey Fraser
+5346 Kate Brian
+5347 Herbie Brennan
+5348 Julia Quinn
+5349 Annie Duke
+5350 Barbara Walters
+5351 Madeline Hunter
+5352 Kate Brian
+5353 Kevin Guilfoile
+5354 Molly Harper
+5355 James  Kennedy
+5356 Richie Tankersley Cusick
+5357 Betsy Tobin
+5358 Sophie Kinsella
+5359 Eric Flint
+5360 Yvonne Collins
+5361 Cicely Mary Barker
+5362 Gary Paulsen
+5363 David H. Jackson Jr.
+5364 Mick Foley
+5365 Uwe Tellkamp
+5366 Rowdy Roddy Piper
+5367 Patricia Cornwell
+5368 Brian Jacques
+5369 Micheline Aharonian Marcom
+5370 Brad Kessler
+5371 Stephanie Barron
+5372 Hiromu Arakawa
+5373 Kate Coombs
+5374 Thomas M. Disch
+5375 Robert Service
+5376 Laura Wiess
+5377 Frances Payne Adler
+5378 John Eldredge
+5379 Amy Sedaris
+5380 Will Mancini
+5381 Sy Montgomery
+5382 Shanna Swendson
+5383 Christine Schutt
+5384 Ursula K. Heise
+5385 Joel C. Rosenberg
+5386 Marianne Fredriksson
+5387 Pete Nelson
+5388 Stephen Cole
+5389 Alys Clare
+5390 Judith L. Lief
+5391 Julia Glass
+5392 Deana Martin
+5393 Reki Kawahara
+5394 Emily Brightwell
+5395 Alison Croggon
+5396 David Brion Davis
+5397 Mahasweta Devi
+5398 Christopher Tyerman
+5399 Masaji Ishikawa
+5400 Polly Horvath
+5401 Ravi Zacharias
+5402 John Seymour
+5403 James L.  Wilson
+5404 Michael Reaves
+5405 Tami Hoag
+5406 The Tiltboys
+5407 Scott Mebus
+5408 Hugo Hamilton
+5409 Madeline Hunter
+5410 Kate Brian
+5411 Georg Grossjohann
+5412 Jean Shinoda Bolen
+5413 Rachel Caine
+5414 Charles Fishman
+5415 Gail Carson Levine
+5416 Emily Rodda
+5417 Wilbur Smith
+5418 Nancy Farmer
+5419 Robert J. Sawyer
+5420 Hafid Bouazza
+5421 Michael Dyson
+5422 Andrew Cartmel
+5423 E.D. Baker
+5424 Rick  Mercer
+5425 Reki Kawahara
+5426 Steven Saylor
+5427 Jerome Groopman
+5428 Emily Brightwell
+5429 Melissa Panarello
+5430 N. Stephan Kinsella
+5431 Roland Barthes
+5432 Alex Storozynski
+5433 Paul Stewart
+5434 Paul Copan
+5435 Patrick Modiano
+5436 Matthew Woodring Stover
+5437 Mary-Ann Tirone Smith
+5438 Kathleen Jamie
+5439 William B. Breuer
+5440 Ariana Franklin
+5441 Colum McCann
+5442 Edna O'Brien
+5443 Connie Brockway
+5444 Kate Brian
+5445 Ty Drago
+5446 Douglas Preston
+5447 Pete Nelson
+5448 Kurt Busiek
+5449 Ed McBain
+5450 Maureen Ash
+5451 Phillip Hoose
+5452 Carole Seymour-Jones
+5453 Rafik Schami
+5454 Derrick A. Bell
+5455 Stephen J. Burn
+5456 David Lindley
+5457 E.D. Baker
+5458 Rosie Alison
+5459 Steven Saylor
+5460 Arkas
+5461 Jane Rubino
+5462 Jill Norman
+5463 Robert D. Putnam
+5464 Nisi Shawl
+5465 Ben Shapiro
+5466 Kimberly Witherspoon
+5467 Steven Savile
+5468 Joe Haldeman
+5469 Lloyd Jones
+5470 Lynn Kurland
+5471 Donna Leon
+5472 Jane Lindskold
+5473 Terri Blackstock
+5474 Elizabeth Kolbert
+5475 Arkas
+5476 Connie Rose Porter
+5477 Barry Sergeant
+5478 Steve Fuller
+5479 Graham Salisbury
+5480 Norman Davies
+5481 bell hooks
+5482 Joseph Bruchac
+5483 Terry Pratchett
+5484 Vox Day
+5485 Richard Blow
+5486 Eddie Robson
+5487 Estella Bowen Culp
+5488 John Keegan
+5489 Jennifer Niven
+5490 Michael Moore
+5491 Jody Gehrman
+5492 Mary Beard
+5493 P.C. Cast
+5494 James Patterson
+5495 David Dobbs
+5496 Arkas
+5497 Janet Beeler Shaw
+5498 Elizabeth C. Dunn
+5499 Nathan Singer
+5500 Simone Elkeles
+5501 Ismail Kadare
+5502 Conrad Black
+5503 Carol Emshwiller
+5504 Karen Kingsbury
+5505 John Harwood
+5506 Naomi Novik
+5507 Arkas
+5508 Andrzej Stasiuk
+5509 Michel Rabagliati
+5510 Jean Edward Smith
+5511 Jack Yeovil
+5512 Ngũgĩ wa Thiong'o
+5513 Timothy J. Keller
+5514 Jordan S. Rubin
+5515 Mark D. White
+5516 Diane Dettmann
+5517 Val McDermid
+5518 Anne Easter Smith
+5519 Joyce Carol Oates
+5520 Meg Tilly
+5521 Rebecca Stott
+5522 Ekaterina Sedia
+5523 Cherise Sinclair
+5524 Philip Short
+5525 L.A. Meyer
+5526 Jon J. Muth
+5527 Dawn J. Ranck
+5528 Rob Neyer
+5529 Wilbur Smith
+5530 Dana Stabenow
+5531 Annette de Vries
+5532 David Foster Wallace
+5533 Dee Henderson
+5534 Ai Yazawa
+5535 Gail Carson Levine
+5536 Robin Furth
+5537 Erich Origen
+5538 Trina M. Lee
+5539 Kevin Sullivan
+5540 Andreï Makine
+5541 Michel Foucault
+5542 John R. Erickson
+5543 Matthew Pearl
+5544 Louis Bayard
+5545 Sharon Maas
+5546 Jim Benton
+5547 Deborah Ellis
+5548 Alan Furst
+5549 James Patterson
+5550 Theodore C. Sorensen
+5551 Dimitri Verhulst
+5552 A.F. Moritz
+5553 Anke Scheeren
+5554 Robin Furth
+5555 Terri Blackstock
+5556 Tara Janzen
+5557 Marjane Satrapi
+5558 Allen Kurzweil
+5559 Eliza Gayle
+5560 L.M. Montgomery
+5561 Mamie Till-Mobley
+5562 Shauna James Ahern
+5563 Leslie Carroll
+5564 James Lileks
+5565 Mark R. Levin
+5566 Jim Benton
+5567 Christian Mørk
+5568 Brian  Richardson
+5569 Iris Johansen
+5570 Various
+5571 Marjorie M. Liu
+5572 Martha Finley
+5573 Jon Scieszka
+5574 Heather Graham
+5575 Yves Bonnefoy
+5576 Kevin Sullivan
+5577 Janet Martin Soskice
+5578 Tamera Alexander
+5579 Veronica Buckley
+5580 Bob Artley
+5581 Jim Benton
+5582 Jean-Claude Mourlevat
+5583 Kate Brian
+5584 Earl Emerson
+5585 Siri Hustvedt
+5586 Jeremy Green
+5587 António Lobo Antunes
+5588 Marjorie M. Liu
+5589 Martha Finley
+5590 Scott Westerfeld
+5591 Philip R. Craig
+5592 Tsugumi Ohba
+5593 Allen Kurzweil
+5594 Heather Graham
+5595 L.M. Montgomery
+5596 Cameron Dokey
+5597 David Park
+5598 Jo Nesbø
+5599 Kathy Reichs
+5600 Per Petterson
+5601 Marjorie M. Liu
+5602 Nora Roberts
+5603 Tsugumi Ohba
+5604 Gerald Morris
+5605 Heather Graham
+5606 Jay Wright
+5607 C.S. Lewis
+5608 Jeanette Winter
+5609 Sandra Gulland
+5610 Peggy Grayson
+5611 Charlotte Mosley
+5612 Carolly Erickson
+5613 David    Stone
+5614 Scott Westerfeld
+5615 Donna Jo Napoli
+5616 Charlaine Harris
+5617 G.M. Ford
+5618 Lawrence Block
+5619 Marguerite Helmers
+5620 Per Petterson
+5621 Kathleen Duey
+5622 Margaret Weis
+5623 Francesca Lia Block
+5624 Ridley Pearson
+5625 Ai Yazawa
+5626 Bill Clinton
+5627 Drew Karpyshyn
+5628 Rae Armantrout
+5629 Chris Ware
+5630 Pema Chödrön
+5631 Andrés Reséndez
+5632 David    Stone
+5633 Michelle Rowen
+5634 The Medieval Murderers
+5635 Gregory M. Colon Semenza
+5636 M.J. Allaire
+5637 Meir Shalev
+5638 Scott Westerfeld
+5639 Naomi Novik
+5640 Marcia Muller
+5641 Ai Yazawa
+5642 Ellen Schreiber
+5643 Geoffrey Hill
+5644 Anthony Browne
+5645 Maggie   Freeman
+5646 Hester Rumberg
+5647 Kate Thompson
+5648 William H. White
+5649 Michelle Rowen
+5650 Kelly Gay
+5651 The Medieval Murderers
+5652 Alexander R. Galloway
+5653 Tess Gerritsen
+5654 Jonathan Fast
+5655 Ivan Vladislavić
+5656 Misty Massey
+5657 Linda Howard
+5658 Arkas
+5659 James Patterson
+5660 Wendy Body
+5661 Geoffrey Hill
+5662 Douwe Draaisma
+5663 Robert Morgan
+5664 Eric Van Lustbader
+5665 Michelle Rowen
+5666 Julia Navarro
+5667 Janette Rallison
+5668 Rory Freedman
+5669 Michelle Rowen
+5670 William Nicholson
+5671 Rachel Vincent
+5672 John Heidenry
+5673 Richard Stark
+5674 Kathleen Duey
+5675 Phil Foglio
+5676 J.D. Robb
+5677 Shane Peacock
+5678 Suzan-Lori Parks
+5679 David A. O'Brien
+5680 Tom Slemen
+5681 Amy  Stewart
+5682 Matthew Fuller
+5683 Miranda Seymour
+5684 Jim Lehrer
+5685 Devon Monk
+5686 William Nicholson
+5687 Jonathan Lethem
+5688 Doreen Cronin
+5689 Siba Al-Harez
+5690 Lisa Trumbauer
+5691 Anna Quindlen
+5692 Living Language
+5693 Deborah Crombie
+5694 Marjane Satrapi
+5695 Meg Cabot
+5696 Peter A. Wallner
+5697 Olivia Goldsmith
+5698 Joseph C. Banks
+5699 Donald Spoto
+5700 Devon Monk
+5701 William Nicholson
+5702 Jane Yolen
+5703 Doris Lessing
+5704 Dương Thu Hương
+5705 Lisa Trumbauer
+5706 Kathleen DeMarco
+5707 T. Coraghessan Boyle
+5708 Mary Ann Hoberman
+5709 J.D. Robb
+5710 Lauren Child
+5711 Richard Slotkin
+5712 Tim Larkin
+5713 Terry Ryan
+5714 Michael Flynn
+5715 Mark Finn
+5716 Mimi McCoy
+5717 Devon Monk
+5718 Rachel Vincent
+5719 Robert L. Davis
+5720 Vonne van der Meer
+5721 Martha Wells
+5722 Lara Bergen
+5723 Bernd Heinrich
+5724 Tsugumi Ohba
+5725 C.L. Davis
+5726 Louise Penny
+5727 Kimberly Morris
+5728 Andrew H. Knoll
+5729 Regina Scott
+5730 Jayne Ann Krentz
+5731 Ellen Schreiber
+5732 Robin Marantz Henig
+5733 Michael Zadoorian
+5734 John Grisham
+5735 Larry McMurtry
+5736 Lara Bergen
+5737 Scott Westerfeld
+5738 Anne McCaffrey
+5739 Caralyn Buehner
+5740 Tom Clancy
+5741 Βάσω Χρήστου
+5742 J.D. Robb
+5743 Roderick Townley
+5744 Patricia Briggs
+5745 Ryszard Kapuściński
+5746 Pamela Nagami
+5747 Barbara Delinsky
+5748 Margaret Atwood
+5749 Orson Scott Card
+5750 Alice Walker
+5751 Roald Dahl
+5752 Toni Morrison
+5753 Alan Moore
+5754 Umberto Eco
+5755 Stephen King
+5756 Milan Kundera
+5757 Amy Tan
+5758 Ken Follett
+5759 Kazuo Ishiguro
+5760 Gabriel García Márquez
+5761 John Irving
+5762 Douglas Adams
+5763 Marion Zimmer Bradley
+5764 Jean M. Auel
+5765 Paulo Coelho
+5766 Fannie Flagg
+5767 Art Spiegelman
+5768 Jay McInerney
+5769 Terry Pratchett
+5770 Stephen King
+5771 James Herriot
+5772 J.M. Coetzee
+5773 Fernando Pessoa
+5774 John Updike
+5775 Ellis Peters
+5776 Sue Townsend
+5777 Thomas  Harris
+5778 Michael Chabon
+5779 Tamora Pierce
+5780 Thomas Keneally
+5781 James Ellroy
+5782 Margaret Atwood
+5783 Laura Esquivel
+5784 Roald Dahl
+5785 Robin McKinley
+5786 Katherine Dunn
+5787 Haruki Murakami
+5788 Bryce Courtenay
+5789 Raymond E. Feist
+5790 Tamora Pierce
+5791 John Updike
+5792 William Gibson
+5793 Frank Miller
+5794 James M. McPherson
+5795 Winston Groom
+5796 Haruki Murakami
+5797 Garrison Keillor
+5798 Elizabeth Moon
+5799 Laura Joffe Numeroff
+5800 Sue Grafton
+5801 Ian Rankin
+5802 Edward Rutherfurd
+5803 Stephen R. Covey
+5804 Richard Bachman
+5805 Jeanette Winterson
+5806 Margaret Weis
+5807 Iain M. Banks
+5808 David Eddings
+5809 Gore Vidal
+5810 Louis L'Amour
+5811 Stephen Jay Gould
+5812 Madeleine L'Engle
+5813 James A. Michener
+5814 Gregory Benford
+5815 J.R.R. Tolkien
+5816 David Eddings
+5817 Thomas Bernhard
+5818 Dorothy Gilman
+5819 Rick Warren
+5820 Ellis Peters
+5821 David Eddings
+5822 Philip Roth
+5823 Akira Yoshimura
+5824 David Eddings
+5825 Patricia C. Wrede
+5826 Clive Cussler
+5827 Richard Bachman
+5828 David Eddings
+5829 Sara Paretsky
+5830 Philip Larkin
+5831 Gabriel García Márquez
+5832 Clive Cussler
+5833 James Lee Burke
+5834 Sheri S. Tepper
+5835 Michael Tolkin
+5836 Tim Powers
+5837 Greg Bear
+5838 Clive Cussler
+5839 Robert Middlekauff
+5840 James A. Michener
+5841 Anne Tyler
+5842 Cicely Mary Barker
+5843 Francine Pascal
+5844 Patricia A. McKillip
+5845 Martha Grimes
+5846 Isabel Allende
+5847 Tété-Michel Kpomassie
+5848 Robyn Davidson
+5849 Woody Allen
+5850 Theresa Hak Kyung Cha
+5851 Roland Barthes
+5852 Robert Munsch
+5853 Dean Koontz
+5854 N.H. Kleinbaum
+5855 Grant Naylor
+5856 Sharon Kay Penman
+5857 Philip Pullman
+5858 Robert McCrum
+5859 Karleen Koen
+5860 Katsuhiro Otomo
+5861 Ismail Kadare
+5862 Katsuhiro Otomo
+5863 Katsuhiro Otomo
+5864 Elizabeth Peters
+5865 Jeffrey Archer
+5866 Richard Russo
+5867 J.A. Jance
+5868 Kingsley Amis
+5869 José Saramago
+5870 Lucia St. Clair Robson
+5871 Claudio Magris
+5872 Ursula K. Le Guin
+5873 Eugene B. Sledge
+5874 Jennifer Roberson
+5875 William S. Burroughs
+5876 Michael Ondaatje
+5877 Raymond Carver
+5878 Wade Davis
+5879 Diana Wynne Jones
+5880 Rosamunde Pilcher
+5881 Jennifer Roberson
+5882 Thomas Bernhard
+5883 David Markson
+5884 Noah Gordon
+5885 Isabel Allende
+5886 Eva Ibbotson
+5887 Donald Spoto
+5888 Sarah Caudwell
+5889 Timothy Findley
+5890 Bernard Cornwell
+5891 Greil Marcus
+5892 Colleen McCullough
+5893 Witi Ihimaera
+5894 bell hooks
+5895 John Varley
+5896 Jeffrey Archer
+5897 Madeleine L'Engle
+5898 Al Ries
+5899 Richard Dawkins
+5900 Hilda Hilst
+5901 Ivan Doig
+5902 Jude Deveraux
+5903 Renata Adler
+5904 Jude Deveraux
+END
