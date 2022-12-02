@@ -18,4 +18,9 @@ def input_rec():
     print(request.get_json()['user_input'])
     return get_recommendations_text(request.get_json()['user_input'])
 
+@app.route('/input_title', methods=['GET', 'POST'])
+def title_rec():
+    print(request.get_json()['user_input'])
+    return get_recommendations_title(request.get_json()['user_input'])
+
 

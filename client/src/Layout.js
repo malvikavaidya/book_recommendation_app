@@ -40,14 +40,28 @@ function Layout() {
         const headers = {
             'Content-Type': "application/json;charset=UTF-8",
         }
-        axios.post("/stuff", {
-            
+        axios.post("/input_title", {
+            user_input: title
         },{
             headers: headers
         })  
         .then((response) =>{
             console.log(response);
-            setInputText("title button click works");
+            console.log(response);
+            setBookTitle(response.data.title1);
+            setAuthor(response.data.author1);
+            setSummary(response.data.summary1);
+            setImage(response.data.image1);
+
+            setBookTitle2(response.data.title2);
+            setAuthor2(response.data.author2);
+            setSummary2(response.data.summary2);
+            setImage2(response.data.image2);
+
+            setBookTitle3(response.data.title3);
+            setAuthor3(response.data.author3);
+            setSummary3(response.data.summary3);
+            setImage3(response.data.image3); 
         })
         .catch((error)=>{
             console.log(error.response.data);

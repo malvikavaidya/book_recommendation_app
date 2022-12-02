@@ -32,7 +32,7 @@ const BookCard = (props) => {
     return ( 
         <Center py={6} >
         <Box
-          maxW={'250px'}
+          maxW={'230px'}
           w={'full'}
           bg={useColorModeValue('white', 'gray.900')}
           boxShadow={'2xl'}

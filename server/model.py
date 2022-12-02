@@ -82,13 +82,168 @@ def get_lists():
         book_genres.append(genre_text)
         book_titles.append(list3[i])
         book_authors.append(list4[i])
+
+def web_scraping(input_link):
+    options = webdriver.ChromeOptions()
+    options.add_argument('--ignore-certificate-errors')
+    options.add_argument('--incognito')
+    options.add_argument('--headless')
+    driver = webdriver.Chrome("/usr/lib/chromium-browser/chromedriver", chrome_options=options)
+    single_book_genres = []
+    description = ""
+    photo_link = ""
+    page_link = input_link
+    driver.get(page_link)
+    soup = BeautifulSoup(driver.page_source, 'html.parser')
+    description = soup.find(class_="DetailsLayoutRightParagraph__widthConstrained")
+    if description == None:
+        if soup.find(class_="readable stacked") == None:
+            description = "No description"
+        else:
+            if soup.find(class_="readable stacked").find('span', style="display:none") == None:
+                description = "No description"
+            else:
+                description = soup.find(class_="readable stacked").find('span', style="display:none").get_text()     
+    else:
+        description = description.text
+
+    genre_buttons = []
+    genre_buttons = soup.find_all(class_="actionLinkLite bookPageGenreLink")
+    if(len(genre_buttons) == 0):
+        genre_buttons = soup.find_all(class_='BookPageMetadataSection__genreButton')
+
+    genre_i = 0
+    for j in genre_buttons:
+        if(genre_i == 5):
+            break
+        single_book_genres.append(j.text)
+        genre_i += 1
+    # print(single_book_genres)
+
+    photo_link = soup.find(class_="ResponsiveImage")
+    if photo_link != None:
+        photo_link = photo_link.get('src')
+    else:
+        photo_link = "None"
+    return description, single_book_genres, photo_link
+
+def vectorize_description(description):
+    processed_text = preprocessing_input_text(description)
+    text_in_list = []
+    text_in_list.append(processed_text)
+
+    description_vectorizer = pickle.load(open('description_vectorizer.pkl', 'rb'))
+    print(text_in_list)
+    vectors = description_vectorizer.transform(text_in_list)
+    feature_names = description_vectorizer.get_feature_names_out()
+    dense = vectors.todense()
+    denselist = dense.tolist()
+    x_input = pd.DataFrame(denselist, columns=feature_names)
+    return x_input
+
+def vectorize_genre(single_book_genres):
+    single_book = ""
+    for i in range(len(single_book_genres)):
+        single_book += single_book_genres[i] + " "
+
+    single_book = single_book.strip()
+
+    single_book_g = []
+    single_book_g.append(single_book)
+    
+    genre_vectorizer = pickle.load(open('genre_vectorizer.pkl', 'rb'))
+    g_vectors = genre_vectorizer.transform(single_book_g)
+    g_feature_names = genre_vectorizer.get_feature_names_out()
+    g_dense = g_vectors.todense()
+    g_denselist = g_dense.tolist()
+    y_data = pd.DataFrame(g_denselist, columns=g_feature_names)
+    return y_data
+
+def cosine_similarity_genre_title(y_data, y_data2):
+    proba = np.array(y_data.to_numpy()).reshape(1, -1)
+    y_data_categories =  pickle.load(open('y_data[categories].pkl', 'rb'))
+    ydata_2 = y_data2.to_numpy()
+    genres0 = np.array(ydata_2[0]).reshape(1, -1)
+    cosine_similarities_genre = {}
+
+    prediction = np.array(proba).reshape(1, -1)
+
+    for i in range(len(ydata_2)):
+        genre_i = np.array(ydata_2[i]).reshape(1, -1)
+        sg = cosine_similarity(prediction, genre_i)
+        cosine_similarities_genre[i] = sg[0][0]
+
+    cosine_similarities_genre = dict(sorted(cosine_similarities_genre.items(), key=lambda item: item[1], reverse=True))
+    return cosine_similarities_genre
+
+def cosine_similarity_description_title(cosine_similarities_genre, x_input, book_descriptions):
+    top_55 = dict(islice(cosine_similarities_genre.items(), 55))
+
+    indices = list(top_55.keys())
+    print(len(indices))
+    input_cosine_similarities = np.array(x_input).reshape(1, -1)
+    description_vectorizer = pickle.load(open('description_vectorizer.pkl', 'rb'))
+    cosine_similarities_books = {}
+
+    # need input text and get description of top 20 books
+    for i in range(55):
+        idx = indices[i]
+        # print(idx)
+        book_text = book_descriptions[idx]
+        
+        # print(book_text)
+        book_text_list = []
+        book_text_list.append(preprocessing_input_text(book_text))
+        
+        vectors = description_vectorizer.transform(book_text_list)
+        feature_names = description_vectorizer.get_feature_names_out()
+        dense = vectors.todense()
+        denselist = dense.tolist()
+        book_i = pd.DataFrame(denselist, columns=feature_names)
+        
+        book_i = np.array(book_i).reshape(1, -1)
+        sg = cosine_similarity(input_cosine_similarities, book_i)
+        cosine_similarities_books[idx] = sg[0][0]
+    
+    
+    cosine_similarities_books = dict(sorted(cosine_similarities_books.items(), key=lambda item: item[1], reverse=True))
+    return cosine_similarities_books
+
+def get_unremoved_y(book_genres):
+    genre_vectorizer = pickle.load(open('genre_vectorizer.pkl', 'rb'))
+    g_vectors = genre_vectorizer.fit_transform(book_genres)
+    g_feature_names = genre_vectorizer.get_feature_names_out()
+    g_dense = g_vectors.todense()
+    g_denselist = g_dense.tolist()
+    y_data2 = pd.DataFrame(g_denselist, columns=g_feature_names)
+    return y_data2
         
 def get_recommendations_title(user_title):
-    book_title = ""
-    book_author = ""
-    book_summary = ""
-    book_image = ""
+    warnings.filterwarnings('ignore')
+    get_lists()
+    ydata_2 = get_unremoved_y(book_genres)
     
+    query = user_title + " goodreads"
+    for j in search(query, tld="co.in", num=1, stop=1, pause=2):
+        input_link = j
+    description, single_book_genres, photo_link = web_scraping(input_link)
+    x_input = vectorize_description(description)  
+    y_data = vectorize_genre(single_book_genres)
+    cosine_similarities_genre = cosine_similarity_genre_title(y_data, ydata_2)
+    cosine_similarities_books = cosine_similarity_description_title(cosine_similarities_genre, x_input, book_descriptions)
+
+    top_3 = dict(islice(cosine_similarities_books.items(), 3))
+    indices_books = list(top_3.keys())
+    
+    image_link = get_image_link(book_titles[indices_books[0]])
+    image_link2 = get_image_link(book_titles[indices_books[1]])
+    image_link3 = get_image_link(book_titles[indices_books[2]])
+    print(top_3)
+    return {"author1": book_authors[indices_books[0]].strip().lstrip('0123456789'), "title1": book_titles[indices_books[0]].strip().lstrip('0123456789'), "summary1": book_descriptions[indices_books[0]].strip(), "image1": image_link,
+            "author2": book_authors[indices_books[1]].strip().lstrip('0123456789'), "title2": book_titles[indices_books[1]].strip().lstrip('0123456789'), "summary2": book_descriptions[indices_books[1]].strip(), "image2": image_link2,
+            "author3": book_authors[indices_books[2]].strip().lstrip('0123456789'), "title3": book_titles[indices_books[2]].strip().lstrip('0123456789'), "summary3": book_descriptions[indices_books[2]].strip(), "image3": image_link3}
+     
+
 
 def get_recommendations_text(user_input):
     warnings.filterwarnings('ignore')
